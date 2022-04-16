@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 9466,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Derrek Lee",
+            "title": "Google Contacts update makes it easier to clean up your contact list",
+            "description": "The latest Google Contacts update adds a new bottom bar with a tabbed view so that users can easily fix and manage their contacts. The update appears to be rolling out gradually to Android phones.",
+            "url": "https://www.androidcentral.com/google-contacts-bottom-bar-update",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qQtMEjonwSxArtWpDvz8z8-1200-80.jpg",
+            "publishedAt": "2022-03-15T00:43:27Z",
+            "content": "<ul><li>Google Contacts is getting a UI change with its latest update.</li><li>The app now features a bottom bar so that users can toggle between their contacts and certain settings.</li><li>The Fix \u2026 [+1573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Kyle Alspach",
+            "title": "Google Chronicle adds \u2018context-aware\u2019 cyber threat detection",
+            "description": "The Google Chronicle security analytics service, a part of Google Cloud, is now adding \"context-aware\" detection of cyber threats.",
+            "url": "https://venturebeat.com/2022/03/15/google-chronicle-adds-context-aware-cyber-threat-detection/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/03/google-chronicle.jpg?w=1200&strip=all",
+            "publishedAt": "2022-03-15T18:59:29Z",
+            "content": "Did you miss a session at the Data Summit? Watch On-Demand Here.\r\nGoogle Cloud today announced the next series of updates to its Chronicle security analytics service, aimed at helping to enhance secu\u2026 [+4122 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jayar.decenella@gmail.com (Jay Bonggolto)",
+            "title": "Google is reportedly buying MicroLED display maker Raxium for its AR push",
+            "description": "Google has reportedly struck a deal to buy Raxium, a startup specializing in MicroLED displays for augmented and mixed reality devices, for a potential amount of $1 billion.",
+            "url": "https://www.androidcentral.com/apps-software/google-is-reportedly-buying-microled-display-maker-raxium-for-its-ar-push",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/3s4fH4RbPwejdXSdksUDVM-1200-80.jpg",
+            "publishedAt": "2022-03-19T09:09:34Z",
+            "content": "<ul><li>Google is said to be paying potentially $1 billion to acquire MicroLED display manufacturer Raxium.</li><li>The deal is seen as a part of Google's growing interest in augmented and mixed real\u2026 [+2390 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "jayar.decenella@gmail.com (Jay Bonggolto)",
+            "title": "Google Docs update makes it easier to collaborate on email drafts within the app",
+            "description": "Google Docs on the web is picking up a new template for drafting emails with Gmail integration.",
+            "url": "https://www.androidcentral.com/google-docs-email-draft-template",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rQWUxWoWuQj4XWgRgMqGHT-1200-80.jpg",
+            "publishedAt": "2022-03-16T00:24:39Z",
+            "content": "<ul><li>Google Docs on the web is getting a new template for drafting emails.</li><li>The new capability features Gmail integration and allows multiple users to collaborate on a draft.</li><li>It als\u2026 [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "chris.wedel@futurenet.com (Chris Wedel)",
+            "title": "Apple iPhone SE (2022) vs. Google Pixel 5a: The budget flagship showdown",
+            "description": "Google and Apple both offer some of the best smartphones in the game. When deciding between the two newest budget options from each brand, the choice can get a bit dicey.",
+            "url": "https://www.androidcentral.com/phones/apple-iphone-se-2022-vs-google-pixel-5a-the-budget-flagship-showdown",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RAx9KxnaJGfEptzBWgYtjG-1200-80.jpg",
+            "publishedAt": "2022-03-17T22:30:37Z",
+            "content": "The Google Pixel 5a and the Apple iPhone SE represent the budget device for each brand. Each phone has as many features and specs as possible, but with a few compromises to keep the price down. Typic\u2026 [+9717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Nicholas Sutrich",
+            "title": "Steam for Chrome OS teased at Google for Games Developer Summit",
+            "description": "Google appears to have announced Steam on Chrome OS a bit early at its gaming summit, but the official release is right around the corner.",
+            "url": "https://www.androidcentral.com/steam-chrome-os-launch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/R6LA6eHQB6mZmKHAajAfMP-1200-80.jpg",
+            "publishedAt": "2022-03-15T21:03:58Z",
+            "content": "<ul><li>Steam for Chrome OS was announced as being available \"right now\" at the Google for Games Developer Summit on March 15, 2022.</li><li>This announcement appears to have been premature, with the\u2026 [+1647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Google I/O to Take Place in May, Will Once Again Be Online",
+            "description": "Google today announced that its annual Google I/O developers conference is set to take place on Wednesday, May 11 and Thursday May 12, about a month ahead of when we're expecting Apple to hold the annual Worldwide Developers Conference.\n\n\n\n\n\nAlphabet CEO Sund\u2026",
+            "url": "https://www.macrumors.com/2022/03/16/google-io-online-event-may-11/",
+            "urlToImage": "https://images.macrumors.com/t/F4F4I3mtoYMc4_O_LbW1_JUfGPc=/2500x/article-new/2022/02/Google-Logo-Feature-Slack.jpg",
+            "publishedAt": "2022-03-16T22:16:35Z",
+            "content": "Google today announced that its annual Google I/O developers conference is set to take place on Wednesday, May 11 and Thursday May 12, about a month ahead of when we're expecting Apple to hold the an\u2026 [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "John Naughton",
+            "title": "Is Google\u2019s domination of the internet finally over? Search me\u2026 | John Naughton",
+            "description": "Questions are being asked about the web giant\u2019s waning powers, but it may just be a storm in an online teacup For seasoned users of the internet, the chronology of our era divides into two ages: BG and AG \u2013 before and after Google. The year 1998 marks the div\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/mar/19/is-googles-domination-of-the-internet-finally-over-search-me",
+            "urlToImage": "https://i.guim.co.uk/img/media/64a2d2b5c0b34fdbca5b08d7f705038d6db4cd75/0_127_5450_3270/master/5450.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=e7806118cba393419cb3fee41b1a23c4",
+            "publishedAt": "2022-03-19T16:00:31Z",
+            "content": "For seasoned users of the internet, the chronology of our era divides into two ages: BG and AG before and after Google. The year 1998 marks the dividing line. Before then, as the web expanded exponen\u2026 [+5436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blog.google"
+            },
+            "author": "Belinda LangnerGroup Product Manager, App Ads, Nash IslamHead of Global Strategy, AdMob",
+            "title": "Level up your gaming business with new ad features",
+            "description": "With more people playing games on their mobile devices than ever before, developers have a huge opportunity to grow their gaming business. This week at Google for Games Developer Summit, we\u2019re announcing new ways to help you reach more players and increase yo\u2026",
+            "url": "https://blog.google/products/ads-commerce/level-up-game-with-new-ad-features/",
+            "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Social_Asset_03_text_MzAcZRq.max-1300x1300.png",
+            "publishedAt": "2022-03-15T16:00:00Z",
+            "content": "Attract valuable players quickly and effectively\r\nFinding players is critical when you launch a game and you only get one shot at a strong first impression. An effective user acquisition strategy can\u2026 [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Google Casually Announces Steam For Chrome OS Is Coming In Alpha For Select Chromebooks",
+            "description": "At the 2022 Google for Games Developer Summit where its Stadia B2B cloud gaming platform was unveiled, Google announced the long-awaited availability of Steam on Chromebooks. 9to5Google reports: Google specifically said that the \"Steam Alpha just launched, ma\u2026",
+            "url": "https://games.slashdot.org/story/22/03/15/2224208/google-casually-announces-steam-for-chrome-os-is-coming-in-alpha-for-select-chromebooks",
+            "urlToImage": "https://a.fsdn.com/sd/topics/chrome_64.png",
+            "publishedAt": "2022-03-16T02:02:00Z",
+            "content": "I love chromebooks. They just work. I do all my couch browsing, netflix watching on them. They're also my mobile linux platform, because while the linux isn't good (it's in a slow to start container)\u2026 [+312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Google Discovers Threat Actor Working as an 'Initial Access Broker' for Conti Ransomware Hackers",
+            "description": "Google's Threat Analysis Group has observed a financially-motivated threat actor working as an intermediary for the Russian hackers, including the Conti ransomware gang. From a report: The group, which Google refers to as \"Exotic Lily,\" acts as an initial acc\u2026",
+            "url": "https://it.slashdot.org/story/22/03/17/1813219/google-discovers-threat-actor-working-as-an-initial-access-broker-for-conti-ransomware-hackers",
+            "urlToImage": "https://a.fsdn.com/sd/topics/security_64.png",
+            "publishedAt": "2022-03-17T18:13:00Z",
+            "content": "Saying Threat Actors makes you look like an ignorant idiot pretending to know what you are talking about.\r\nThe only time Threat Actors is appropriate, rather than criminals, is when they are terroris\u2026 [+189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Stephen Johnson",
+            "title": "What Is 'the Ides of March,' and Should You Beware It?",
+            "description": "If you\u2019re noticing an existential gloom hanging over all of humanity today, rest assured: It\u2019s not because today is \u201cThe Ides of March.\u201dRead more...",
+            "url": "https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5710744e2e2a35a6a7245709c7c5150f.jpg",
+            "publishedAt": "2022-03-15T19:00:00Z",
+            "content": "If youre noticing an existential gloom hanging over all of humanity today, rest assured: Its not because today is The Ides of March.\r\nIn William Shakespeares Julius Caesar, first produced in 1599, a \u2026 [+3394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Becca Lewis",
+            "title": "Use These Free Apps to Plan Your Next Woodworking Project",
+            "description": "Most carpenters have memorized a certain number of shortcuts for measuring angles, making cut lists, or estimating distances\u2014but thanks to technology, you don\u2019t have to do that anymore. If you want precise and quick results when figuring out archway sizes or \u2026",
+            "url": "https://lifehacker.com/use-these-free-apps-to-plan-your-next-woodworking-proje-1848664893",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/656b13657665ba7cba6a58946bdc3b46.jpg",
+            "publishedAt": "2022-03-17T14:01:17Z",
+            "content": "Most carpenters have memorized a certain number of shortcuts for measuring angles, making cut lists, or estimating distancesbut thanks to technology, you dont have to do that anymore. If you want pre\u2026 [+3024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Andrew Blok",
+            "title": "Matter Smart Home Standard Reportedly Delayed Until Fall - CNET",
+            "description": "Matter, originally slated for 2020, will connect devices from Amazon, Apple, Comcast, Google and more.",
+            "url": "https://www.cnet.com/home/smart-home/matter-smart-home-standard-reportedly-delayed-until-fall/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/b6d505db0af2f6e075167ecd222a579eab3f4569/2021/05/11/866b3730-6dd5-4e6a-a8f8-e2e1a11c240b/matter-logo-gradient.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-03-17T14:19:24Z",
+            "content": "Matter has been delayed until fall of 2022.\r\nConnectivity Standards Alliance; illustration by Stephen Shankland/CNET\r\nMatter, which will connect smart home devices from over a dozen brands, has been \u2026 [+588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Julian Dossett",
+            "title": "Is the US Developing a Digital Dollar? This Week's Top Bitcoin & Crypto News - CNET",
+            "description": "Nonfungible Tidbits: All the bitcoin, cryptocurrency and NFT news for the week ending March 18.",
+            "url": "https://www.cnet.com/personal-finance/crypto/is-the-us-developing-a-digital-dollar-this-weeks-top-bitcoin-crypto-news/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/e4de87a14a5ecf108a98c5c482fbcfc2c36906c6/2022/02/04/c5b1979c-a2d6-412c-9866-e1545badf003/gettyimages-1305088166.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-03-19T13:15:02Z",
+            "content": "Here's what happened this week in the crypto world.\r\nGetty\r\nWelcome to Nonfungible Tidbits, a weekly roundup of news in crypto, NFTs and their related realms.\r\nOur lead story this week is the possibi\u2026 [+2860 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Our verdict on Apple's Mac Studio",
+            "description": "Capping off a week of Apple reviews (iPhone SE here, iPad Air right here), we\u2019ve got the verdict on the company's impressive new desktop PC. It looks like a big Mac mini but houses some incredibly powerful components, centered around Apple\u2019s newest M1 chips. \u2026",
+            "url": "https://www.engadget.com/the-morning-after-our-verdict-on-apples-mac-studio-verdict-111523437.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/a6bd4881-a567-11ec-9deb-fb0c2e15e4e9",
+            "publishedAt": "2022-03-18T11:15:23Z",
+            "content": "Capping off a week of Apple reviews (iPhone SE here, iPad Air right here), weve got the verdict on the company's impressive new desktop PC. It looks like a big Mac mini but houses some incredibly pow\u2026 [+3239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Nicholas Sutrich",
+            "title": "Samsung Galaxy S22 Ultra vs. Google Pixel 6 Pro: Why go Pro when you can go Ultra?",
+            "description": "Google's Pixel 6 Pro has been our favorite premium-grade phone since its release, but Samsung's new Galaxy S22 Ultra is a better phone in almost every way.",
+            "url": "https://www.androidcentral.com/samsung-galaxy-s22-ultra-vs-google-pixel-6-pro",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6wXCFouePCD2RdN245yYfL-1200-80.jpg",
+            "publishedAt": "2022-03-19T13:30:00Z",
+            "content": "When it comes down to Android phones, these two are some of the best in the bunch. The Samsung Galaxy S22 Ultra was released this past February, while Google's Pixel 6 Pro debuted in October of 2021.\u2026 [+12170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Derrek Lee",
+            "title": "Google's Android 12 Pixel UI keeps me going back to Samsung's One UI",
+            "description": "In my experience owning a Pixel 6 Pro, I can't help but compare it to Samsung's Galaxy smartphones, and while the Pixel has a lot going for it, the UI experience is not my favorite.",
+            "url": "https://www.androidcentral.com/why-i-prefer-one-ui-over-pixel-ui-android-12",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/epdC4oi7a6obDrn5kKsQGb-1200-80.jpg",
+            "publishedAt": "2022-03-16T12:00:00Z",
+            "content": "Android 12 is here, and we\u2019ve seen how all the OEMs are putting their own spin on the OS. Companies like Samsung, OnePlus, and others have slapped their UI over Android 12 to make it look, feel, and \u2026 [+8234 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "Semi tech ramblings",
+            "title": "Google Fi Suddenly Strikes",
+            "description": "Evacuated from Ukraine to Spain with Covid, Google Fi suddenly cuts off my service.",
+            "url": "https://migrant.substack.com/p/how-google-fi-suddenly-struck",
+            "urlToImage": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0b327b5c-980d-40a5-89c9-f16a65842288_2048x1536.jpeg",
+            "publishedAt": "2022-03-19T20:44:24Z",
+            "content": "Here I will describe another automated action by Google: its human aspect, and a makeshift technical solution.\r\nHuman problem\r\nIn September I flew from Boston to Istanbul, and then eventually made it\u2026 [+11597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "chris.wedel@futurenet.com (Chris Wedel)",
+            "title": "Matter delayed yet again, unified smart home standard to launch Fall 2022",
+            "description": "Matter, the new communication standard for smart devices is supported by big players like Google, Amazon, Apple, and more is seeing additional delays as the platform interest increases.",
+            "url": "https://www.androidcentral.com/accessories/smart-home/matter-delayed-yet-again-unified-smart-home-standard-to-launch-fall-2022",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NL5YfRXP4iiK4gvfFQMgwi-1200-80.jpg",
+            "publishedAt": "2022-03-17T19:09:13Z",
+            "content": "<ul><li>Matter, the upcoming new IoT standard, has been further delayed until Fall 2022.\u00a0</li><li>An additional device certification event has been added for Summer 2022.\u00a0</li><li>The new standard ai\u2026 [+2102 chars]"
+        }
+    ]
+}

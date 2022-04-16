@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 5014,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "Mali says no deal reached on election date with regional envoy - Reuters.com",
+            "description": "Mali's transitional government on Sunday said it had not yet reached an agreement with West Africa's regional bloc on when to hold elections that would restore democracy after a military takeover.",
+            "url": "https://www.reuters.com/article/us-mali-security-idUSKCN2LH0JU",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2022-03-20T22:29:00Z",
+            "content": "By Reuters Staff\r\nBAMAKO (Reuters) - Malis transitional government on Sunday said it had not yet reached an agreement with West Africas regional bloc on when to hold elections that would restore demo\u2026 [+824 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Melenchon, running third in French election race, promises to tame capitalism - Reuters.com",
+            "description": "French far-left presidential candidate Jean-Luc Melenchon, who may yet challenge for a place in the April election's crucial runoff, on Sunday promised to lower the age of retirement, hike the minimum wage and freeze food and fuel prices.",
+            "url": "https://www.reuters.com/world/europe/melenchon-running-third-french-election-race-promises-tame-capitalism-2022-03-20/",
+            "urlToImage": "https://www.reuters.com/resizer/TBbzgUYJfnnA47-9TpTSArL4Z9w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/66XV6GJZRBPJTI2BTQ3NCAVZ3Y.jpg",
+            "publishedAt": "2022-03-20T17:06:00Z",
+            "content": "PARIS, March 20 (Reuters) - French far-left presidential candidate Jean-Luc Melenchon, who may yet challenge for a place in the April election's crucial runoff, on Sunday promised to lower the age of\u2026 [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ssheth@businessinsider.com (Sonam Sheth)",
+            "title": "Marie Yovanovitch says Rudy Giuliani was Trump's 'personal dirt-digger' and corrupt Ukrainians used him to spread 'lies and half-truths' in the US",
+            "description": "Yovanovitch wrote that a corrupt former Ukrainian prosecutor used Giuliani to funnel \"lies and half-truths\" to Trump before the 2020 election.",
+            "url": "https://www.businessinsider.com/yovanovitch-giuliani-was-trump-personal-dirt-digger-ukraine-disinformation-2022-3",
+            "urlToImage": "https://i.insider.com/60f5ba7dbc757c001904bb46?width=1200&format=jpeg",
+            "publishedAt": "2022-03-19T18:21:34Z",
+            "content": "The former US ambassador to Ukraine said Rudy Giuliani was a \"personal dirt-digger\" for former President Donald Trump and worked with corrupt actors in Ukraine to bring about her unceremonious ouster\u2026 [+4592 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "kleonard@insider.com (Kimberly Leonard)",
+            "title": "Trump-backed Senate candidate Herschel Walker flagged for campaign money errors",
+            "description": "Walker's campaign accounting errors include accepting donations in excess of the $2,900 legal donation limit, according to the Federal Election Commission.",
+            "url": "https://www.businessinsider.com/donald-trump-herschel-walker-senate-georgia-campaign-money-fec-2022-3",
+            "urlToImage": "https://i.insider.com/62348f1c683ded0019d24431?width=1200&format=jpeg",
+            "publishedAt": "2022-03-18T16:22:47Z",
+            "content": "The Federal Election Commission has flagged Republican Herschel Walker's US Senate campaign for accounting and other reporting errors in its latest financial filing.\u00a0\r\nThe errors included the Walker \u2026 [+1736 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "salarshani@businessinsider.com (Sarah Al-Arshani)",
+            "title": "A Russian oligarch was indicted for using associates to make illegal donations to US politicians",
+            "description": "Prosecutors said Andrey Muraviev tried to influence the 2018 election and gave $1 million to Lev Parnas, Andrey Kukushkin, and Igor Fruman to donate on his behalf.",
+            "url": "https://www.businessinsider.com/russian-oligarch-was-indicted-for-illegal-campaign-financing-in-us-2022-3",
+            "urlToImage": "https://i.insider.com/622ffb8d843ef30018e70750?width=1200&format=jpeg",
+            "publishedAt": "2022-03-15T05:23:47Z",
+            "content": "A Russian oligarch was charged with making illegal contributions to political campaigns in the US as a foreign national in order to curry favor for retail cannabis licenses, the Justice Department an\u2026 [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Reid J. Epstein",
+            "title": "Mark Meadows\u2019s 2020 Vote Is Under Investigation in North Carolina",
+            "description": "Records show that Mr. Meadows cast an absentee ballot from the address of a remote mobile home, but reports have cast doubt on whether he lived there.",
+            "url": "https://www.nytimes.com/2022/03/17/us/politics/mark-meadows-trump-vote-north-carolina.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/17/us/politics/17pol-Meadows/merlin_177130377_c0866310-ca58-4309-bf11-e53d022df7ba-facebookJumbo.jpg",
+            "publishedAt": "2022-03-18T02:15:07Z",
+            "content": "North Carolina officials said on Thursday that they planned to investigate whether Mark Meadows, who as former President Donald J. Trumps chief of staff helped amplify false claims of voter fraud in \u2026 [+905 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "French elections: Putin's war gives Macron boost in presidential race",
+            "description": "Russia's invasion of Ukraine has shaken up France's presidential elections, with only three weeks to go.",
+            "url": "https://www.bbc.co.uk/news/world-europe-60793320",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C92/production/_123762479_macronversailles.jpg",
+            "publishedAt": "2022-03-19T00:14:41Z",
+            "content": "By Hugh SchofieldBBC News, Paris\r\nImage source, Getty Images\r\nImage caption, President Macron has played a prominent role in Europe's response to Russia's invasion of Ukraine\r\nRussia's war in Ukraine\u2026 [+5097 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Texas man pleads guilty to assaulting police at U.S. Capitol riot - Reuters.com",
+            "description": "An Iraq war veteran who allegedly formed a militia he dubbed the \"Proud Boys of North Texas\" pleaded guilty on Thursday to a single count of assaulting or resisting police, a charge related to the storming of the U.S. Capitol in an effort to block Congress fr\u2026",
+            "url": "https://www.reuters.com/world/us/texas-man-pleads-guilty-assaulting-police-us-capitol-riot-2022-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/GruSZIrdDuakFARIdygYrzuE-AI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CIDNZI33UNM3LG6IHXMQWWYVTI.jpg",
+            "publishedAt": "2022-03-17T21:13:00Z",
+            "content": "WASHINGTON, March 17 (Reuters) - An Iraq war veteran who allegedly formed a militia he dubbed the \"Proud Boys of North Texas\" pleaded guilty on Thursday to a single count of assaulting or resisting p\u2026 [+2668 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "India's Congress fires five state chiefs after poll drubbing - Reuters India",
+            "description": "India's opposition Congress party on Tuesday fired the local chiefs of five states after humiliating losses in recent elections, as it tries to reinvent itself ahead of the next national election in 2024 that Prime Minister Narendra Modi's party is expected t\u2026",
+            "url": "https://www.reuters.com/world/india/indias-congress-fires-five-state-chiefs-after-poll-drubbing-2022-03-15/",
+            "urlToImage": "https://www.reuters.com/resizer/b1scZEi0EO--sVWiF7akqIvsFFk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C7IIOKX3FVJAHG5OPIZP2U7SP4.jpg",
+            "publishedAt": "2022-03-15T14:26:00Z",
+            "content": "NEW DELHI, March 15 (Reuters) - India's opposition Congress party on Tuesday fired the local chiefs of five states after humiliating losses in recent elections, as it tries to reinvent itself ahead o\u2026 [+1693 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ex-Trump chief of staff Meadows probed over N. Carolina voter registration - Reuters.com",
+            "description": "Mark Meadows, who served as former Republican President Donald Trump's chief of staff and has echoed his false claims of widespread voter fraud in the 2020 election, is being investigated in North Carolina over his voter registration, state authorities said o\u2026",
+            "url": "https://www.reuters.com/world/us/ex-trump-chief-staff-meadows-probed-over-n-carolina-voter-registration-2022-03-17/",
+            "urlToImage": "https://www.reuters.com/resizer/RnscgKfVde_cQhSRrnA4xzQORBM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/U7D67EJ7W5L6VMYUJPRNCD2XMY.jpg",
+            "publishedAt": "2022-03-17T22:13:00Z",
+            "content": "March 17 (Reuters) - Mark Meadows, who served as former Republican President Donald Trump's chief of staff and has echoed his false claims of widespread voter fraud in the 2020 election, is being inv\u2026 [+2184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "SCOTT BAUER",
+            "title": "Wisconsin GOP leader Vos to meet with election fraud backers",
+            "description": "Wisconsin Assembly Speaker Robin Vos said Tuesday he is meeting with advocates for decertifying  President Joe Biden's win in the battleground state, hours...",
+            "url": "https://news.yahoo.com/wisconsin-gop-leader-vos-meet-180250265.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hFro.6mzfg1FX4x_yc.BQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/W7E.EKJ7I6LpKlIancoudw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/456d0e4ce7541d9849641d89e90aeec9",
+            "publishedAt": "2022-03-15T18:02:50Z",
+            "content": "MADISON, Wis. (AP) Wisconsin Assembly Speaker Robin Vos said Tuesday he is meeting with advocates for decertifying President Joe Biden's win in the battleground state, hours before he and the state S\u2026 [+4155 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Dean Bennett",
+            "title": "UCP candidate Brian Jean wins northern Alberta by-election in landslide - The Globe and Mail",
+            "description": "<ol><li>UCP candidate Brian Jean wins northern Alberta by-election in landslide\u00a0\u00a0The Globe and Mail\r\n</li><li>'This is about the future of Alberta:' Brian Jean handily wins Fort McMurray-Lac La Biche byelection for UCP\u00a0\u00a0Edmonton Journal\r\n</li><li>United Conse\u2026",
+            "url": "https://www.theglobeandmail.com/politics/article-ucp-candidate-brian-jean-wins-northern-alberta-by-election-in/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/mEnDDLhDHaU0KpsJwAaRuUU0NR4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/N6EUKNRDKRKPLDLFVZRCGWW6UA.jpg",
+            "publishedAt": "2022-03-16T03:48:41Z",
+            "content": "Wildrose leader Brian Jean celebrates the yes vote during the Unity Vote at the Wildrose Special General Meeting in Red Deer in 2017. The former Wildrose leader won a by-election in Fort McMurray on \u2026 [+5798 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff and agencies",
+            "title": "Trump\u2019s ex-chief of staff Mark Meadows investigated for voter registration fraud",
+            "description": "North Carolina authorities are investigating claims Mark Meadows did not reside, visit or own the address he is registered atMark Meadows, who served as former Republican President Donald Trump\u2019s final chief of staff and has echoed his false claims of widespr\u2026",
+            "url": "https://amp.theguardian.com/us-news/2022/mar/18/doanld-trump-chief-of-staff-mark-meadows-voter-fraud",
+            "urlToImage": "https://i.guim.co.uk/img/media/7b29ddc1ff3f77e838f52ee85b65aae4972f5284/0_184_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c33802f92fc0ad6ef8b9c0bee55d0787",
+            "publishedAt": "2022-03-18T14:01:02Z",
+            "content": "Mark Meadows, who served as former Republican President Donald Trumps final chief of staff and has echoed his false claims of widespread voter fraud in the 2020 election, is being investigated in Nor\u2026 [+1855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Rebecca Davis O\u2019Brien",
+            "title": "Chinese Officer Charged With Harassing N.Y. Congressional Candidate",
+            "description": "Yan Xiong, a Chinese dissident who immigrated to America and is now a political candidate on Long Island, was targeted by an agent of the Chinese government, federal prosecutors said.",
+            "url": "https://www.nytimes.com/2022/03/16/nyregion/china-target-congress-campaign.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/16/nyregion/16chinesepression/16chinesepression-facebookJumbo.jpg",
+            "publishedAt": "2022-03-16T18:18:06Z",
+            "content": "A representative of Mr. Yans campaign did not immediately provide comment on the charges.\r\nProsecutors say that Mr. Lin engaged a private investigator last fall to dig up or, failing that, to manufac\u2026 [+1028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Angelique Chrisafis in Aubervilliers",
+            "title": "Emmanuel Macron vows to step up welfare reforms if re-elected",
+            "description": "French president aims to raise pension age and continue cutting taxes for businesses and householdsEmmanuel Macron has vowed to intensify his overhaul of France\u2019s welfare state, tax system and labour market if he wins a second term as president next month, ar\u2026",
+            "url": "https://amp.theguardian.com/world/2022/mar/17/emmanuel-macron-vows-to-step-up-welfare-reforms-if-re-elected",
+            "urlToImage": "https://i.guim.co.uk/img/media/acc04b069ef83dfe5a9f5b7af07685f5856a9368/0_0_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7287aa4ab5557643e0a35676cc25b4d",
+            "publishedAt": "2022-03-17T19:01:36Z",
+            "content": "Emmanuel Macron has vowed to intensify his overhaul of Frances welfare state, tax system and labour market if he wins a second term as president next month, arguing that transforming French society w\u2026 [+4762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MICHAEL R. BLOOD",
+            "title": "Special US House election will fill term of Trump ally Nunes",
+            "description": "Former California U.S. Rep. Devin Nunes\u2019 resignation to lead Donald Trump\u2019s media company has left his one-time constituents with an odd special election...",
+            "url": "https://news.yahoo.com/special-us-house-election-fill-040924194.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fUK_Gvzz6XvtpSKQMTVW7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/oSaHqGq2HtA9ZZx5qq0dyg--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/49c16bba03689403f8332fa7c047dbd9",
+            "publishedAt": "2022-03-16T04:09:24Z",
+            "content": "LOS ANGELES (AP) Former California U.S. Rep. Devin Nunes resignation to lead Donald Trumps media company has left his one-time constituents with an odd special election: Voters will select someone to\u2026 [+5234 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Tom Simonite, Gian M. Volpicelli",
+            "title": "Ukraine\u2019s Digital Ministry Is a Formidable War Machine",
+            "description": "A government department run by savvy tech \u201cfreaks\u201d has become a surprise defense against Russia.",
+            "url": "https://www.wired.com/story/ukraine-digital-ministry-war/",
+            "urlToImage": "https://media.wired.com/photos/62327dc8c404ebbcf282c7ee/191:100/w_1280,c_limit/Ministry-DigitalTransformation-Team-Ukraine-Business.jpg",
+            "publishedAt": "2022-03-17T11:00:00Z",
+            "content": "Valeriya Ionan, a deputy minister at Ukraines Ministry for Digital Transformation, was breastfeeding her two-month-old son Mars when the first explosions boomed over Kyiv in the early hours of Februa\u2026 [+3704 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Mexican former governor arrested over alleged electoral crimes - Reuters.com",
+            "description": "A former governor of Mexico's Nuevo Leon state was arrested Tuesday for his alleged participation in electoral crimes, according to the state attorney general.",
+            "url": "https://www.reuters.com/world/americas/mexican-former-governor-arrested-over-alleged-electoral-crimes-2022-03-15/",
+            "urlToImage": "https://www.reuters.com/resizer/uccY0ROn7wgnxe_9zEOZQoWn8t0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ALJ6VOVCBFOXPKC3VUPWZO23PM.jpg",
+            "publishedAt": "2022-03-15T22:47:00Z",
+            "content": "MEXICO CITY, March 15 (Reuters) - A former governor of Mexico's Nuevo Leon state was arrested Tuesday for his alleged participation in electoral crimes, according to the state attorney general.\r\nRodr\u2026 [+1080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Michael Wines",
+            "title": "Ohio Supreme Court Intensifies a Redistricting Map Standoff",
+            "description": "Years ago, voters created a commission to make political maps fairer. Now the State Supreme Court is blocking maps drawn by the Republican-led commission, saying nothing has changed.",
+            "url": "https://www.nytimes.com/2022/03/17/us/politics/ohio-court-congress-maps.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/17/us/politics/17ohio-map/17ohio-map-facebookJumbo.jpg",
+            "publishedAt": "2022-03-17T18:53:49Z",
+            "content": "With redistricting complete in all but five states, Democrats have erased much of a huge partisan advantage that Republicans had amassed on the House of Representatives map by dominating the last rou\u2026 [+1735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Agence France-Presse in Ashgabat",
+            "title": "Turkmenistan strongman's son wins presidential vote",
+            "description": "Serdar Berdymukhamedov won last Saturday\u2019s ballot, officials said, but with lower victory margin than his fatherThe son of Turkmenistan\u2019s autocrat leader, Gurbanguly Berdymukhamedov, has decisively won the presidential election, officials said on Tuesday, pav\u2026",
+            "url": "https://amp.theguardian.com/world/2022/mar/15/turkmenistan-strongmans-son-wins-presidential-vote",
+            "urlToImage": "https://i.guim.co.uk/img/media/8621826493e98600e924686a5fd8657175b2d0a9/0_173_5000_2999/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=345627fe8a05e9a49bf0dcf5398c3deb",
+            "publishedAt": "2022-03-15T10:53:15Z",
+            "content": "The son of Turkmenistans autocrat leader, Gurbanguly Berdymukhamedov, has decisively won the presidential election, officials said on Tuesday, paving the way for hereditary succession in one of the w\u2026 [+2577 chars]"
+        }
+    ]
+}
