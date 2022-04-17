@@ -24,7 +24,7 @@ for a in articles:
 	del a['content']
 
 # now we will open a file for writing
-data_file = open('data_file.csv', 'w', newline='')
+data_file = open('news.csv', 'w', newline='')
 
 # create the csv writer object
 csv_writer = csv.writer(data_file)
