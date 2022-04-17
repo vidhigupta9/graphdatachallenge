@@ -12,13 +12,13 @@ with open('combined.json') as json_file:
 
 articles = data['articles']
 
-
 for a in articles:
 	del a['source']['id']
 	del a['author']
 	del a['title']
 	del a['urlToImage']
 	del a['publishedAt']
+
 
 # now we will open a file for writing
 data_file = open('data_file.csv', 'w', newline='')
