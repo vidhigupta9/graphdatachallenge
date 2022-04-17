@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 798,
+    "totalResults": 185,
     "articles": [
         {
             "source": {
@@ -8,25 +8,64 @@
                 "name": "The Indian Express"
             },
             "author": "Express Web Desk",
+            "title": "Chennai News Live Updates: Tamil Nadu ready to ship rice, drugs to Sri Lanka, MK Stalin tells Centre",
+            "description": "Chennai, Tamil Nadu News Live Updates- Chennai Petrol, Diesel, LPG Price Hike Updates:",
+            "url": "https://indianexpress.com/article/cities/chennai/chennai-news-live-stalin-madras-hc-sri-lanka-petrol-price-dmk-aiadmk-updates-7859081/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/MK-Stalin-1.jpg",
+            "publishedAt": "2022-04-08T03:00:29Z",
+            "content": "Chennai: AIADMK leaders Edappadi K. Palaniswami and O. Panneerselvam with party MLAs stage a walkout during the Tamil Nadu Assembly Session, at the secretariat, in Chennai, Wednesday, April 6, 2022. \u2026 [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Express Web Desk",
             "title": "Petrol and diesel prices in your city today, check here",
-            "description": "Petrol and Diesel price today in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Jaipur: Petrol price in Delhi stands at Rs 95.41 per litre while diesel is available for Rs 86.67. In Mumbai, petrol is retailing at Rs 109.98, while diesel costs Rs 94.14\u2026",
-            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-auto-fuel-price-today-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-march-17-7823847/",
+            "description": "Petrol Diesel Price Hike Today Latest News: Petrol price in Delhi stands at Rs 105.41 per litre while diesel is available for Rs 96.67. In Mumbai, petrol is retailing at Rs 120.51, while diesel costs Rs 104.77. Click here to find out fuel prices in your city.",
+            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-price-today-11-april-rates-latest-check-latest-fuel-price-7863407/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/Petrol-Diesel-Price-PTI-1200.jpg",
+            "publishedAt": "2022-04-11T04:45:41Z",
+            "content": "Petrol Diesel Price Today: Petrol and diesel prices remained steady for the fifth consecutive day across the country on Monday, April 11, 2022.The price of petrol in Delhi stands at Rs 105.41 per lit\u2026 [+2161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Express Web Desk",
+            "title": "Petrol and diesel prices in your city today, check here",
+            "description": "Petrol Diesel Price Hike Today Latest News: Petrol price in Delhi stands at Rs 105.41 per litre while diesel is available for Rs 96.67. In Mumbai, petrol is retailing at Rs 120.51, while diesel costs Rs 104.77. Click here to find out fuel prices in your city.",
+            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-price-today-13-april-rates-latest-check-latest-fuel-price-7867214/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/petrol-diesel-price-reuters-1200.jpg",
+            "publishedAt": "2022-04-13T06:20:37Z",
+            "content": "Petrol Diesel Price Today: Petrol and diesel prices remained steady for the seventh consecutive day across the country on Wednesday, April 13, 2022.The price of petrol in Delhi stands at Rs 105.41 pe\u2026 [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Express Web Desk",
+            "title": "Petrol and diesel prices in your city today, check here",
+            "description": "Petrol Diesel Price Hike Today Latest News: Petrol price in Delhi stands at Rs 105.41 per litre while diesel is available for Rs 96.67. In Mumbai, petrol is retailing at Rs 120.51, while diesel costs Rs 104.77. Click here to find out fuel prices in your city.",
+            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-price-today-15-april-rates-latest-check-latest-fuel-price-7870208/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/petrol-diesel-price-reuters-1200.jpg",
+            "publishedAt": "2022-04-15T04:26:03Z",
+            "content": "Petrol Diesel Price Today: Petrol and diesel prices remained steady for the ninth consecutive day across the country on Friday, April 15, 2022.The price of petrol in Delhi stands at Rs 105.41 per lit\u2026 [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Express Web Desk",
+            "title": "Petrol and diesel prices on April 12: Check fuel rates in your city today",
+            "description": "Petrol Diesel Price Hike Today Latest News: Petrol price in Delhi stands at Rs 105.41 per litre while diesel is available for Rs 96.67. In Mumbai, petrol is retailing at Rs 120.51, while diesel costs Rs 104.77. Click here to find out fuel prices in your city.",
+            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-price-today-12-april-rates-latest-check-latest-fuel-price-7865463/",
             "urlToImage": "https://images.indianexpress.com/2022/03/petrol-diesel-price-express-archive-1200.jpg",
-            "publishedAt": "2022-03-17T05:51:32Z",
-            "content": "Petrol and diesel price today: Prices of petrol and diesel remained unchanged across the country on Thursday, March 17, 2022.The price of petrol in Delhi stands at Rs 95.41 per litre while that of di\u2026 [+2371 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "insider@insider.com (Alex Goy)",
-            "title": "Review: Meet BMW's sporty new electric sedan, the i4 M50. It's a great choice for first-time EV buyers.",
-            "description": "The $66,000 BMW i4 M50 is an EV that looks like a gas-powered car. It embodies a \"same-but-different\" vibe, which is great for cautious buyers.",
-            "url": "https://www.businessinsider.com/bmw-i4-electric-sedan-review-perfect-first-time-ev-buyers-2022-2",
-            "urlToImage": "https://i.insider.com/6231f243843ef30018e74ad6?width=1200&format=jpeg",
-            "publishedAt": "2022-03-16T14:35:42Z",
-            "content": "BMW's shift to electrification is well underway. As well as offering myriad hybrid versions of its traditional range, its full EV lineup is growing. The iX3 and iX SUVs are a decent kickoff, but the \u2026 [+5029 chars]"
+            "publishedAt": "2022-04-12T05:39:10Z",
+            "content": "Petrol Diesel Price Today: Prices of petrol and diesel remained unchanged for the sixth successive day across the country on Tuesday, April 12, 2022.The price of petrol in Delhi stands at Rs 105.41 p\u2026 [+2167 chars]"
         },
         {
             "source": {
@@ -34,12 +73,12 @@
                 "name": "The Indian Express"
             },
             "author": "Express Web Desk",
-            "title": "Petrol and diesel prices on March 16: Check fuel rates in your city today",
-            "description": "Petrol and Diesel price today in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Jaipur: Petrol price in Delhi stands at Rs 95.41 per litre while diesel is available for Rs 86.67. In Mumbai, petrol is retailing at Rs 109.98, while diesel costs Rs 94.14\u2026",
-            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-auto-fuel-price-today-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-march-16-7821961/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/petrol-diesel-price-express-photo-1200.jpeg",
-            "publishedAt": "2022-03-16T04:42:08Z",
-            "content": "Petrol and diesel price today: Petrol and diesel prices remained unchanged across the country on Wednesday, March 16, 2022.Petrol price in Delhi stands at Rs 95.41 per litre while that of diesel is a\u2026 [+2254 chars]"
+            "title": "Petrol and diesel prices on April 8: Check fuel rates in your city today",
+            "description": "Petrol Diesel Price Hike Today Latest News: Petrol price in Delhi stands at Rs 105.41 per litre while diesel is available for Rs 96.67. In Mumbai, petrol is retailing at Rs 120.51, while diesel costs Rs 104.77. Click here to find out fuel prices in your city.",
+            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-price-today-8-april-rates-latest-check-latest-fuel-price-7859479/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/Petrol-Diesel-PTI-1200-2.jpg",
+            "publishedAt": "2022-04-08T09:31:10Z",
+            "content": "Petrol Diesel Price Today: Prices of petrol and diesel remained unchanged for the second consecutive day across the country on Friday, April 8, 2022.The price of petrol in Delhi stands at Rs 105.41 p\u2026 [+2241 chars]"
         },
         {
             "source": {
@@ -47,64 +86,38 @@
                 "name": "The Indian Express"
             },
             "author": "Express Web Desk",
-            "title": "Petrol and diesel prices on March 15: Check fuel rates in your city today",
-            "description": "Petrol and Diesel price today in Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Jaipur: Petrol price in Delhi stands at Rs 95.41 per litre while diesel is available for Rs 86.67. In Mumbai, petrol is retailing at Rs 109.98, while diesel costs Rs 94.14\u2026",
-            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-auto-fuel-price-today-delhi-mumbai-kolkata-chennai-bengaluru-hyderabad-march-15-7820359/",
-            "urlToImage": "https://images.indianexpress.com/2021/11/petrol-diesel-price-reuters-1200.jpeg",
-            "publishedAt": "2022-03-15T05:35:05Z",
-            "content": "Petrol and diesel price today: The rates of petrol and diesel remained steady across the country on Tuesday, March 15, 2022.The price of petrol in Delhi stands at Rs 95.41 per litre while that of die\u2026 [+2553 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Helen Pidd",
-            "title": "\u2018Snoop Dogg is advertising Just Eat, but it is me that has to deliver it\u2019: the courier leading the UK\u2019s longest gig-economy strike",
-            "description": "Since December, Parirs Dixon has been organising fellow couriers to picket popular takeaways in Sheffield in an effort to improve pay. Now the industrial action is spreading to other cities\u201cDon\u2019t do it, brother!\u201d shouts Parirs Dixon as a Just Eat delivery dri\u2026",
-            "url": "https://amp.theguardian.com/society/2022/mar/16/snoop-dog-is-advertising-just-eat-but-it-is-me-that-has-to-deliver-it-the-courier-leading-the-uks-longest-gig-economy-strike",
-            "urlToImage": "https://i.guim.co.uk/img/media/0a6143601f1b48e670ded5cb5b54257f925a5f4e/0_265_7962_4777/master/7962.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73666f1171efe600a46fc8db4c00fe6b",
-            "publishedAt": "2022-03-16T14:46:27Z",
-            "content": "Dont do it, brother! shouts Parirs Dixon as a Just Eat delivery driver approaches a branch of Greggs in Sheffield city centre with his bag open, ready to fill with pastries. Did you not know about th\u2026 [+10749 chars]"
+            "title": "Petrol and diesel prices on April 14: Check fuel rates in your city today",
+            "description": "Petrol Diesel Price Hike Today Latest News: Petrol price in Delhi stands at Rs 105.41 per litre while diesel is available for Rs 96.67. In Mumbai, petrol is retailing at Rs 120.51, while diesel costs Rs 104.77. Click here to find out fuel prices in your city.",
+            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-price-today-14-april-rates-latest-check-latest-fuel-price-7868779/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/Petrol-Diesel-Price-PTI-1200.jpg",
+            "publishedAt": "2022-04-14T06:38:30Z",
+            "content": "Petrol Diesel Price Today: Prices of petrol and diesel remained unchanged for the eighth successive day across the country on Thursday, April 14, 2022.The price of petrol in Delhi stands at Rs 105.41\u2026 [+2066 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Indian Express"
             },
-            "author": "PTI",
-            "title": "Price hike expectation drives petrol and diesel sales",
-            "description": "Petrol sales by state-owned fuel retailers, which control roughly 90 per cent of the market, at 1.23 million tonnes during March 1-15 were nearly 18 per cent higher than the same period last year and 24.4 per cent higher than the period in 2019, preliminary i\u2026",
-            "url": "https://indianexpress.com/article/business/commodities/price-hike-expectation-drives-petrol-diesel-sales-7822843/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/petrol-diesel-price-pti-1200.jpg",
-            "publishedAt": "2022-03-16T11:21:05Z",
-            "content": "India\u2019s auto fuel sales surged past pre-pandemic levels in the first half of March as consumers and dealers topped tanks in anticipation of a likely price hike post assembly elections.Petrol sales by\u2026 [+3469 chars]"
+            "author": "Express Web Desk",
+            "title": "Fuel price: Petrol, diesel prices inch up 80 paise per litre, CNG hiked Rs 2.5 a kg",
+            "description": "Petrol and diesel prices: Petrol price in Delhi stands at Rs 105.41 per litre while diesel is available for Rs 96.67. In Mumbai, petrol is retailing at Rs 120.51, while diesel costs Rs 104.77. Read below to find out fuel prices in your city.",
+            "url": "https://indianexpress.com/article/business/commodities/petrol-diesel-prices-hiked-by-80-paise-total-increase-now-stands-at-rs-10-7854830/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/FUEL-PRICEEE.jpeg",
+            "publishedAt": "2022-04-06T02:18:04Z",
+            "content": "Petrol and diesel price today: Petrol and diesel prices were hiked yet again across the country for the fifth successive day on Wednesday, April 6, 2022. In the national capital, both petrol and dies\u2026 [+2563 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Quartz India"
+                "name": "The Indian Express"
             },
-            "author": "Alexander Onukwue",
-            "title": "The price of diesel in Nigeria has doubled",
-            "description": "From under 300 naira in January to over N700 in March.",
-            "url": "https://qz.com/africa/2142918/the-price-of-diesel-in-nigeria-has-doubled/",
-            "urlToImage": "https://cms.qz.com/wp-content/uploads/2022/03/2006-04-19T120000Z_1147200288_GM1DSKPWDKAB_RTRMADP_3_NIGERIA-MILITANTS-e1647433489885.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-            "publishedAt": "2022-03-16T13:31:10Z",
-            "content": "From a January average of 288 naira ($.70),\u00a0diesel now sells for over N700 ($1.69) in Nigeria. It is causing widespread anxiety for businesses that rely on the product to power generators that make u\u2026 [+2703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HYPEBEAST"
-            },
-            "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
-            "title": "The Nike Dunk Low \"Cider\" Is Being Restocked",
-            "description": "When the Nike Dunk Low \"Cider\" first released in August 2021, it was pipped to become one of fall's hottest sneakers -- and in true Dunk fashion, it was. Now, the fan-favorite general release colorway is set for a limited-run return courtesy of Nice Kicks.The\u2026",
-            "url": "https://hypebeast.com/2022/3/nike-dunk-low-cider-restock-release-information-swoosh-dh0601",
-            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F03%2Fnike-dunk-low-cider-restock-release-information-swoosh-dh0601-tw.jpg?w=960&cbr=1&q=90&fit=max",
-            "publishedAt": "2022-03-19T10:06:47Z",
-            "content": "When the Nike \r\nDunk Low \u201cCider\u201d first released in August 2021, it was pipped to become one of fall\u2019s hottest sneakers \u2014 and in true Dunk fashion, it was. Now, the fan-favorite general release colorw\u2026 [+961 chars]"
+            "author": "Harikishan Sharma",
+            "title": "Prices of fuel, medicine among issues raised in Lok Sabha",
+            "description": "Speaking in Lok Sabha during Zero Hour, Ray said, \u201cPetrol and diesel rates in the country have sharply increased after the latest round of fuel price hikes by oil marketing companies.\"",
+            "url": "https://indianexpress.com/article/india/prices-of-fuel-medicine-among-issues-raised-in-lok-sabha-7856827/",
+            "urlToImage": "https://images.indianexpress.com/2021/10/petrol-diesel-price-today-express-photo-1200.jpeg",
+            "publishedAt": "2022-04-06T16:35:16Z",
+            "content": "Raising the issue of fuel price hikes, Trinamool Congress MP Sougata Ray on Wednesday urged the government to take immediate steps to check the daily increase in prices of petroleum products.Speaking\u2026 [+3114 chars]"
         },
         {
             "source": {
@@ -112,12 +125,51 @@
                 "name": "The Indian Express"
             },
             "author": "Trends Desk",
-            "title": "\u2018A feasible option\u2019: Maharashtra man rides horse to work amid fuel price hike",
-            "description": "The man, who works as a lab assistant at a local college, said the mode of transport works even after the lockdown was lifted and the steep rise in petrol prices.",
-            "url": "https://indianexpress.com/article/trending/trending-in-india/maharashtra-man-rides-horse-to-work-amid-fuel-price-hike-7820630/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/maha-horse-1200.jpg",
-            "publishedAt": "2022-03-15T07:53:22Z",
-            "content": "The surge in fuel prices in the last two years has hit people across the country. Now, to deal with it, a Maharashtra man went kind of backwards in timechoosing a horse as his mode of transport.After\u2026 [+4337 chars]"
+            "title": "Memes take over Twitter amid fuel, lemon price rise",
+            "description": "As the price of the summer essential commodity soared high, netizens are having a field day with hilarious memes.",
+            "url": "https://indianexpress.com/article/trending/trending-in-india/memes-take-over-twitter-amid-fuel-lemon-price-rise-7860293/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/lemon-prices.jpg",
+            "publishedAt": "2022-04-08T14:45:21Z",
+            "content": "With growing inflation, most people in the country are expressing their concerns and anger online. While some have gone on to rant and vent their frustration, urging the government to adopt measures \u2026 [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Rising prices of essentials, fuel spare no one, strain household budgets across country",
+            "description": "While the prices of vegetables and several other food items have gone through the roof, the rates of petrol and diesel have increased by about Rs 10 per litre each in the past one month. Besides, the prices of other petroleum products, including cooking gas, \u2026",
+            "url": "https://economictimes.indiatimes.com/news/economy/indicators/rising-prices-of-essentials-fuel-spare-no-one-strain-household-budgets-across-country/articleshow/90793620.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-90793649,width-1070,height-580,imgsize-82730,overlay-economictimes/photo.jpg",
+            "publishedAt": "2022-04-12T06:01:01Z",
+            "content": "A sharp rise in prices of essential commodities over the past few months coupled with the latest burden of steep hike in fuel rates have made life difficult for almost every section of the society ac\u2026 [+5697 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "PTI",
+            "title": "CNG price hiked by Rs 2.50 per kg for second day in a row in national capital",
+            "description": "CNG Price today: CNG in the National Capital Territory (NCT) of Delhi now costs Rs 69.11 per kg, up from Rs 66.61 per kg, according to the information posted on the website of Indraprastha Gas Ltd (IGL) - the firm which retails CNG and piped cooking gas in th\u2026",
+            "url": "https://indianexpress.com/article/business/commodities/cng-price-hiked-by-rs-2-50-per-kg-in-delhi-april-7-7857572/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/igl-cng-refuelling-station-express-photo.jpg",
+            "publishedAt": "2022-04-07T06:04:19Z",
+            "content": "CNG prices in the national capital on Thursday were hiked for the second day in a row by Rs 2.50 per kilogram, taking the total increase since March to Rs 12.5 per kg.CNG in the National Capital Terr\u2026 [+1724 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Biden boosts ethanol to lower US fuel prices amid war in Ukraine",
+            "description": "With gas prices surging amid Russia's invasion and inflation rising, US president unveils new plan for corn-based fuel.",
+            "url": "https://www.aljazeera.com/news/2022/4/12/biden-boosts-ethanol-to-lower-us-fuel-prices-amid-war-in-ukraine",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/04/2022-01-12-USA-BIOFUELS-BIDEN.jpg?resize=1200%2C630",
+            "publishedAt": "2022-04-12T21:04:24Z",
+            "content": "Joe Biden has unveiled a new plan to widen the availability of petrol blended with corn-based ethanol, as the US president seeks to curb soaring fuel costs in the United States linked to the Russian \u2026 [+3908 chars]"
         },
         {
             "source": {
@@ -125,142 +177,90 @@
                 "name": "The Indian Express"
             },
             "author": "Express News Service",
-            "title": "Oshiwara police arrest biker for robbing woman from auto-rickshaw",
-            "description": "The incident took place around 6.15 am on March 7 while the woman was travelling in the auto-rickshaw near Shikhar Tower in a lane next to the Indian Oil petrol pump.",
-            "url": "https://indianexpress.com/article/cities/mumbai/oshiwara-police-arrest-biker-for-robbing-woman-from-auto-rickshaw-7821824/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/IE-31.jpeg",
-            "publishedAt": "2022-03-16T04:03:11Z",
-            "content": "The Oshiwara police traced and arrested a 32-year-old motorcycle-borne man Tuesday for allegedly robbing a woman while she was travelling in an auto-rickshaw, officials said.The incident took place a\u2026 [+530 chars]"
+            "title": "Karnataka truck owners threaten to strike over fuel price, other demands",
+            "description": "The Federation of Karnataka State Lorry Owners\u2019 and Agents\u2019 Association has also demanded from Chief Minister Basavaraj Bommai to do away with check-posts at the state\u2019s borders and scuttle the sand mining policy.",
+            "url": "https://indianexpress.com/article/cities/bangalore/karnataka-truck-owners-threaten-to-strike-over-fuel-price-other-demands-7865550/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/truck.jpg",
+            "publishedAt": "2022-04-12T06:21:44Z",
+            "content": "Karnataka lorry and truck owners have given a month\u2019s deadline to the state government to intervene and reduce the price of diesel and said they will strike if their demands are not met.Apart from th\u2026 [+1611 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Indian Express"
             },
-            "author": "PTI",
-            "title": "ATF price hiked by steepest ever 18% to all-time high",
-            "description": "Aviation turbine fuel (ATF) - the fuel that helps aeroplanes fly - was hiked by 17,135.63 per kl, or 18.3 per cent, to Rs 110,666.29 per kl in the national capital, according to a price notification by state-owned fuel retailers.",
-            "url": "https://indianexpress.com/article/business/commodities/atf-price-hiked-by-steepest-ever-18-pc-to-all-time-high-7822346/",
-            "urlToImage": "https://images.indianexpress.com/2022/02/indigo-reuters-1200.jpg",
-            "publishedAt": "2022-03-16T07:35:15Z",
-            "content": "Jet fuel prices on Wednesday were hiked by over 18 per cent \u2013 the steepest ever increase \u2013 to all-time high levels after international oil price surged to a multi-year high.The increase \u2013 sixth strai\u2026 [+2834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Paul Stenquist",
-            "title": "For Car Designers, E.V.s Offer a Blank Canvas",
-            "description": "Frunks are just the start \u2014 think Cybertruck, not Focus.",
-            "url": "https://www.nytimes.com/2022/03/17/business/electric-vehicle-ev-design.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/03/17/business/17wheels1/17wheels1-facebookJumbo.jpg",
-            "publishedAt": "2022-03-17T10:00:09Z",
-            "content": "A lot of us are still petrol heads, but theres something exciting about the way cars are evolving, said Dominic Najafi, the chief exterior designer for Jaguar, which makes the I-Pace electric sport u\u2026 [+1136 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "James Meek",
-            "title": "The power of the new Ukraine",
-            "description": "How the country has transformed from a Russian client state to a would-be EU nation where liberals and nationalists have found common cause\u2022 Russia-Ukraine war: latest developmentsUkraine has been an independent country for more than half Vladimir Putin\u2019s adu\u2026",
-            "url": "https://amp.theguardian.com/world/2022/mar/20/the-power-of-the-new-ukraine-liberals-nationalists-common-cause",
-            "urlToImage": "https://i.guim.co.uk/img/media/febf2d01ab8c03c2a3b9e262d0218a1b34b58593/0_374_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=4be60f54bfc118de1aa592d2838c6fa3",
-            "publishedAt": "2022-03-20T06:00:48Z",
-            "content": "Ukraine has been an independent country for more than half Vladimir Putins adult life (he turns 70 this year). Its been a free republic for more than 30 years, long enough for the first generation of\u2026 [+12154 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Baris Balci",
-            "title": "Turkey Budget Posts Surplus in February on Central Bank Dividend",
-            "description": "Turkey\u2019s central government budget recorded a surplus in February for the second consecutive month as a dividend payment from the central bank exceeded government spending on national-gas imports.",
-            "url": "https://www.bloomberg.com/news/articles/2022-03-15/turkey-budget-posts-surplus-in-february-on-central-bank-dividend",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iikduVqt9Nbc/v0/1200x800.jpg",
-            "publishedAt": "2022-03-15T08:33:45Z",
-            "content": "Turkeys central government budget recorded a surplus in February for the second consecutive month as a dividend payment from the central bank exceeded government spending on national-gas imports.\u00a0\r\nT\u2026 [+1256 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Cost of living: Cut fuel duty, Welsh Tories tell chancellor",
-            "description": "A spike in oil prices, prompted by the invasion of Ukraine, saw petrol and diesel costs spiral.",
-            "url": "https://www.bbc.co.uk/news/uk-wales-politics-60778562",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3195/production/_111639621_petrolpumps.jpg",
-            "publishedAt": "2022-03-17T22:54:26Z",
-            "content": "Image source, Getty Images\r\nImage caption, Petrol and diesel prices have soared in 2022\r\nThe Welsh Conservatives have called for party colleagues in Westminster to cut fuel duty in next week's spring\u2026 [+4229 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Cost of filling petrol family car rises above \u00a390",
-            "description": "The RAC calls on retailers to start passing on falling wholesale prices to consumers.",
-            "url": "https://www.bbc.co.uk/news/business-60737256",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12872/production/_121209857_petrolnew.jpg",
-            "publishedAt": "2022-03-15T11:11:18Z",
-            "content": "Image source, Getty Images\r\nPetrol prices have hit another record high meaning it now costs more than \u00a390 to fill a family car with petrol, the RAC motoring group has said.\r\nThe average price of a li\u2026 [+1518 chars]"
+            "author": "Express News Service",
+            "title": "Delhi: Driver unions to hold 2-day chakka jam",
+            "description": "Taxi and cab unions have been holding protests since April 8 demanding a reduction in fuel prices, and the autorickshaw union held a protest Monday demanding Rs 35 subsidy on CNG rates.",
+            "url": "https://indianexpress.com/article/cities/delhi/delhi-driver-unions-to-hold-2-day-chakka-jam-7866647/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/Guj-protest-4col.jpeg",
+            "publishedAt": "2022-04-12T17:34:22Z",
+            "content": "Following a series of protests against the hike in fuel prices in Delhi-NCR, drivers associations and unions have decided to observe a chakka jam for two days from April 18.Taxi and cab unions have b\u2026 [+1937 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Indian Express"
             },
-            "author": "PTI",
-            "title": "India\u2019s oil demand likely to jump 8% in 2022",
-            "description": "The Organization of Petroleum Exporting Countries (OPEC) in its latest monthly oil market report projected the world's third-biggest energy consumer to add 0.39 million barrels per day (bpd) of crude oil demand in 2022.",
-            "url": "https://indianexpress.com/article/business/commodities/indias-oil-demand-likely-to-jump-8-pc-in-2022-7824687/",
-            "urlToImage": "https://images.indianexpress.com/2022/02/REUTERS-UKRAINE-CRISIS-CRUDE-1200.jpeg",
-            "publishedAt": "2022-03-17T11:21:56Z",
-            "content": "India\u2019s oil demand is projected to jump 8.2 per cent to 5.15 million barrels per day in 2022 as the economy continues to rebound from the devastation caused by the pandemic.The Organization of Petrol\u2026 [+3515 chars]"
+            "author": "Rupsa Chakraborty",
+            "title": "Backward, forsaken Parbhani now pays among highest for fuel in India",
+            "description": "This has aggravated problems in a place already in the grip of agrarian distress",
+            "url": "https://indianexpress.com/article/cities/mumbai/backward-forsaken-parbhani-now-pays-among-highest-for-fuel-in-india-7869524/",
+            "urlToImage": "https://images.indianexpress.com/2022/04/Dhage.jpg",
+            "publishedAt": "2022-04-15T03:00:29Z",
+            "content": "Kishore Radhakrishan Dhage recalled how one day recently, as he was leaving home, his wife called out and urged him to ride his bike to their small soybean field 1.5 km away. I cannot afford petrol a\u2026 [+6547 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Indian Express"
+                "name": "Moneycontrol"
             },
-            "author": "Aanchal Magazine, Sunny Verma",
-            "title": "As crude eases, govt to wait and watch on excise duty cut",
-            "description": "India imports about 85% of its crude oil requirements",
-            "url": "https://indianexpress.com/article/business/commodities/as-crude-eases-govt-to-wait-and-watch-on-excise-duty-cut-7823373/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/crude-oil-reuters-1200-1.jpeg",
-            "publishedAt": "2022-03-16T21:53:22Z",
-            "content": "With crude prices easing after spiking to a 14-year high in recent weeks, the government is of the view that an immediate cut in excise duty on fuel is not required. Senior Finance Ministry officials\u2026 [+2445 chars]"
+            "author": null,
+            "title": "CNG prices hiked in Delhi NCR. Check new rates effective from April 7",
+            "description": "This is the eighth such hike in CNG prices after five consecutive increases in March this year and the last hike on April 4. Check prices here",
+            "url": "https://www.moneycontrol.com/news/india/cng-prices-hiked-in-delhi-ncr-check-new-rates-effective-from-april-7-8326891.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/12/CNG-price-hike-770x433.jpg",
+            "publishedAt": "2022-04-07T02:20:50Z",
+            "content": "Indraprastha Gas (IGL) has hiked the prices of Compressed Natural Gas (CNG) in Delhi by Rs 2.5 per kg to Rs 69.11 per kg. The new price will come into effect from April 7.\r\nThis is the third consecut\u2026 [+2754 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Indian Express"
+                "name": "YouTube"
             },
-            "author": "Karunjit Singh",
-            "title": "Explained: The fall in crude oil prices, and its impact in India",
-            "description": "The price of crude oil has fallen to just above $100 per barrel from $139, which was the highest level in 14 years. Why are crude prices cooling, and what impact will it have in India?",
-            "url": "https://indianexpress.com/article/explained/crude-oil-prices-decrease-explained-7822399/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/Oil-6.jpg",
-            "publishedAt": "2022-03-16T08:37:21Z",
-            "content": "The price of crude oil fell below the $100 barrel mark on Tuesday, after a two-week period which saw the cost rise to $139 per barrel, its highest level in 14 years. Brent crude gained on Wednesday t\u2026 [+2678 chars]"
+            "author": null,
+            "title": "Gravitas: Petrol, Diesel prices soar in India - WION",
+            "description": "<ol><li>Gravitas: Petrol, Diesel prices soar in India\u00a0\u00a0WION\r\n</li><li>Petrol, Diesel Costlier By Nearly A Rupee, 14th Hike In 16 Days\u00a0\u00a0NDTV\r\n</li><li>Petrol, diesel prices hiked by 80 paise, total increase now Rs 10 a litre in 16 days\u00a0\u00a0Economic Times\r\n</li><l\u2026",
+            "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLJgaLMoM-ew",
+            "urlToImage": null,
+            "publishedAt": "2022-04-06T19:00:06Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
         },
         {
             "source": {
                 "id": null,
-                "name": "CleanTechnica"
+                "name": "Hindustan Times"
             },
-            "author": "David Waterworth",
-            "title": "Mathematics & The EV \u2014 How Much Money Does My Tesla Model 3 Save On Fuel?",
-            "description": "As petrol prices head north of $2 in Australia, there is much anguish and advice for motorists. Sadly, most of this advice is around the \u201cbetter buy petrol today because it will be more expensive tomorrow\u201d narrative. Strangely, no one is suggesting that it mi\u2026",
-            "url": "https://cleantechnica.com/2022/03/16/how-much-money-does-tesla-model-3-save-on-fuel/",
-            "urlToImage": "https://cleantechnica.com/files/2022/01/DSC06035-sm-e1641961121265.jpg",
-            "publishedAt": "2022-03-16T20:11:46Z",
-            "content": "As petrol prices head north of $2 in Australia, there is much anguish and advice for motorists. Sadly, most of this advice is around the better buy petrol today because it will be more expensive tomo\u2026 [+2635 chars]"
+            "author": "hindustantimes.com",
+            "title": "Petrol, diesel prices up by \u20b99.20 after 13th hike in 15 days - Hindustan Times",
+            "description": "<ol><li>Petrol, diesel prices up by \u20b99.20 after 13th hike in 15 days\u00a0\u00a0Hindustan Times\r\n</li><li>Petrol, Diesel Prices Up By 40 Paise/Litre, 12th Hike In 14 Days\u00a0\u00a0NDTV\r\n</li><li>Fuel price hike: Petrol, diesel rates increase by Rs 9.20 per litre since March 22\u2026",
+            "url": "https://www.hindustantimes.com/india-news/petrol-diesel-prices-hiked-up-by-9-20-after-13th-hike-in-15-days-101649120607315.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/04/05/1600x900/petrol_and_diesel_price_today_april_5_2022_1649121877814_1649121878013.jpg",
+            "publishedAt": "2022-04-05T01:25:52Z",
+            "content": "Petrol and diesel prices today April 5, 2022: State-owned fuel retailers hiked the rates of petrol and diesel by 80 paise on Tuesday, the 13th increase in the last 15 days. In Delhi, petrol is now be\u2026 [+1489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Petrol, diesel prices today: Fuel rates hiked, total increase now at \u20b99.20. Check latest rates - Mint",
+            "description": "<ol><li>Petrol, diesel prices today: Fuel rates hiked, total increase now at \u20b99.20. Check latest rates\u00a0\u00a0Mint\r\n</li><li>Petrol, Diesel Prices Up By 40 Paise/Litre, 12th Hike In 14 Days\u00a0\u00a0NDTV\r\n</li><li>Petrol, diesel prices up by \u20b99.20 after 13th hike in 15 day\u2026",
+            "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-on-5-april-delhi-mumbai-chennai-kolkata-bengaluru-fuel-rates-today-11649118308877.html",
+            "urlToImage": "https://images.livemint.com/img/2022/04/05/600x338/CLIMATE-CHANGE-IPCC-8_1649118952033_1649119830946.JPG",
+            "publishedAt": "2022-04-05T01:02:23Z",
+            "content": "Petrol and diesel prices were on Tuesday hiked by 80 paise a litre each, taking the total increase in rates in the last two weeks to 9.20 per litre.\r\nPetrol in Delhi will now cost 104.61 per litre as\u2026 [+1588 chars]"
         }
     ]
 }

@@ -1,149 +1,201 @@
 {
     "status": "ok",
-    "totalResults": 1098,
+    "totalResults": 573,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Ali Martin at Kensington Oval",
-            "title": "Saqib Mahmood gets Test chance as England look to attack West Indies",
-            "description": "<ul><li>Fast bowler handed Barbados debut after impressing in ODIs</li><li>Ollie Robinson and Mark Wood are both unavailable</li></ul>There has been a crackle of excitement in Barbados this week, augmented by the news that Saqib Mahmood will make a highly ant\u2026",
-            "url": "https://amp.theguardian.com/sport/2022/mar/15/saqib-mahmood-gets-test-chance-as-england-look-to-attack-west-indies",
-            "urlToImage": "https://i.guim.co.uk/img/media/d643c9a986929c847b2ffe30c6c923006dd1a9d1/0_258_2561_1536/master/2561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6dca2da0a09da50c4461a541a200012e",
-            "publishedAt": "2022-03-15T19:17:42Z",
-            "content": "There has been a crackle of excitement in Barbados this week, augmented by the news that Saqib Mahmood will make a highly anticipated debut for the visitors when the second Test against West Indies g\u2026 [+3676 chars]"
+            "author": "Alexandra Meeks, CNN",
+            "title": "Start your week smart: Ukraine, Pakistan, France, Puerto Rico, Dwayne Haskins",
+            "description": "Soaring inflation. The war in Ukraine. Yet another rise in Covid cases. With so much going on this year it's hard to focus on things like filing your taxes. Nevertheless, the IRS still expects you to file your 2021 return and pay whatever you still owe by the\u2026",
+            "url": "https://www.cnn.com/2022/04/10/us/five-things-april-10-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220410072635-evacuations-kramatorsk-ukraine-0409-super-tease.jpg",
+            "publishedAt": "2022-04-10T12:41:57Z",
+            "content": "Soaring inflation. The war in Ukraine. Yet another rise in Covid cases. With so much going on this year it's hard to focus on things like filing your taxes. Nevertheless, the IRS still expects you to\u2026 [+6124 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Pakistan court to hear Khan's defence of blocking ouster - Reuters.com",
+            "description": "Pakistan's top court will on Wednesday hear Prime Minister Imran Khan's legal team defend his bid to block an opposition bid to oust him, a move his critics say was unconstitutional and which has ushered in a new phase of political turmoil.",
+            "url": "https://www.reuters.com/world/asia-pacific/pakistan-court-hear-khans-defence-blocking-ouster-2022-04-06/",
+            "urlToImage": "https://www.reuters.com/resizer/HaO0QukVNm-J86meGpIcahi_xiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YROGSP3XSZKYVGTE643W5MYEV4.jpg",
+            "publishedAt": "2022-04-06T06:00:00Z",
+            "content": "ISLAMABAD, April 6 (Reuters) - Pakistan's top court will on Wednesday hear Prime Minister Imran Khan's legal team defend his bid to block an opposition bid to oust him, a move his critics say was unc\u2026 [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Pakistan military dismisses Khan's theory U.S. conspired to oust him as PM - Reuters",
+            "description": "Pakistan's powerful military on Thursday dismissed ousted Prime Minister Imran Khan's accusation that the United States had conspired to topple him in a parliamentary vote of confidence.",
+            "url": "https://www.reuters.com/world/asia-pacific/pakistan-military-dismisses-khans-theory-us-conspired-oust-him-pm-2022-04-14/",
+            "urlToImage": "https://www.reuters.com/resizer/dCM9_wjMHNM7F24osgljcc3sIFs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XTC4PPBRTNLBNH6SNUPX4ZMFLY.jpg",
+            "publishedAt": "2022-04-14T15:27:00Z",
+            "content": "ISLAMABAD, April 14 (Reuters) - Pakistan's powerful military on Thursday dismissed ousted Prime Minister Imran Khan's accusation that the United States had conspired to topple him in a parliamentary \u2026 [+2670 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "NPR"
             },
-            "author": "Simon Jenkins",
-            "title": "Nazanin Zaghari-Ratcliffe\u2019s ordeal shows the uselessness of economic sanctions | Simon Jenkins",
-            "description": "This vacuous foreign policy weapon exacts a human price while failing to achieve any objectiveJoy at the release of two Britons from an Iranian jail should not conceal the squalid diplomacy revealed by their ordeal. Nazanin Zaghari-Ratcliffe and Anoosheh Asho\u2026",
-            "url": "https://amp.theguardian.com/commentisfree/2022/mar/17/nazanin-zaghari-ratcliffe-economic-sanctions",
-            "urlToImage": "https://i.guim.co.uk/img/media/7baadff56d5eb531f6e410c0cca923e84a0578c1/0_127_2415_1450/master/2415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=02c7d3578415d352940b2159c98bd2e0",
-            "publishedAt": "2022-03-17T16:39:36Z",
-            "content": "Joy at the release of two Britons from an Iranian jail should not conceal the squalid diplomacy revealed by their ordeal. Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori have been victims of the lates\u2026 [+5253 chars]"
+            "author": "The Associated Press",
+            "title": "Pakistan's prime minister vows to fight on after Parliament ousts him",
+            "description": "Imran Khan called on his supporters to take to the streets in protest while the political opposition prepare to install his replacement.",
+            "url": "https://www.npr.org/2022/04/10/1091927160/pakistan-prime-minister-imran-khan-parliament-ousted",
+            "urlToImage": "https://media.npr.org/assets/img/2022/04/10/ap22100281292764_wide-7c39926ee453b55f0d28ce644de18745d60af135.jpg?s=1400",
+            "publishedAt": "2022-04-10T12:01:33Z",
+            "content": "Supporters of an opposition party celebrate the success of a no-confidence vote against Prime Minister Imran Khan, in Karachi, Pakistan, Sunday, April 10, 2022.\r\nFareed Khan/AP\r\nISLAMABAD The ouster \u2026 [+5345 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": null,
+                "name": "CP24 Toronto's Breaking News"
             },
-            "author": "Alia Chughtai",
-            "title": "Pakistan\u2019s startups take centre stage",
-            "description": "Startups in Pakistan, one of the last untapped frontier markets, raised $486m of global capital since January 2021.",
-            "url": "https://www.aljazeera.com/economy/2022/3/16/pakistans-startups-take-center-stage",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/03/INTERACTIVE_PAKISTAN_STARTUPS_4_final-08.jpg?resize=1200%2C630",
-            "publishedAt": "2022-03-16T05:58:03Z",
-            "content": "Pakistans economy has been battered by rising inflation, COVID, supply chain shocks and high energy prices over the last few years. But in that world of constant shocks, its booming startup sector is\u2026 [+12841 chars]"
+            "author": "Kathy Gannon",
+            "title": "Sharif sworn in as Pakistan's new PM after week of drama - CP24 Toronto's Breaking News",
+            "description": "<ol><li>Sharif sworn in as Pakistan's new PM after week of drama\u00a0\u00a0CP24 Toronto's Breaking News\r\n</li><li>Pakistan's parliament votes in Shehbaz Sharif as PM after Imran Khan's ouster\u00a0\u00a0CBC News\r\n</li><li>Pakistan parliament elects opposition leader as prime mi\u2026",
+            "url": "https://www.cp24.com/world/sharif-sworn-in-as-pakistan-s-new-pm-after-week-of-drama-1.5856814",
+            "urlToImage": "https://www.cp24.com/polopoly_fs/1.5857612.1649705655!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2022-04-11T11:19:00Z",
+            "content": "ISLAMABAD (AP) - Pakistan's parliament on Monday elected opposition lawmaker Shahbaz Sharif as the new prime minister, following a week of political turmoil that led to the weekend ouster of Premier \u2026 [+5672 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Al Jazeera",
-            "title": "Pakistan PM lauds UN for International Day to Combat Islamophobia",
-            "description": "Imran Khan welcomes UNGA's approval to a resolution setting March 15 as International Day to Combat Islamophobia.",
-            "url": "https://www.aljazeera.com/news/2022/3/16/pakistan-pm-lauds-un-for-international-day-to-combat-islamophobia",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/11/2021-03-31T155510Z_1228514112_RC2FMM9YRRQ5_RTRMADP_3_HEALTH-CORONAVIRUS-PAKISTAN.jpg?resize=1200%2C630",
-            "publishedAt": "2022-03-16T05:03:45Z",
-            "content": "Pakistans Prime Minister Imran Khan has welcomed a decision by the United Nations General Assembly (UNGA) to approve a resolution setting March 15 as the International Day to Combat Islamophobia.\r\nTh\u2026 [+2599 chars]"
+            "author": "insider@insider.com (Kathy Gannon and Munir Ahmed)",
+            "title": "Pakistan's Prime Minister Imran Khan has been ousted in a no-confidence vote",
+            "description": "Pakistan's political opposition ousted the embattled prime minister, Imran Khan, in a no-confidence vote after several of Khan's allies deserted him.",
+            "url": "https://www.businessinsider.com/pakistan-prime-minister-imran-khan-ousted-in-no-confidence-vote-2022-4",
+            "urlToImage": "https://i.insider.com/6251ff9fa2956a0018d7da89?width=1200&format=jpeg",
+            "publishedAt": "2022-04-09T21:57:34Z",
+            "content": "ISLAMABAD (AP) Pakistan's political opposition ousted the country's embattled prime minister in a no-confidence vote early Sunday, which they won after several of Imran Khan's allies and a key coalit\u2026 [+5471 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": null,
+                "name": "Ctvnews.ca"
             },
-            "author": "Al Jazeera",
-            "title": "India reviews ops after missile accidentally fired into Pakistan",
-            "description": "Procedures for operations, maintenance and inspection of weapons are being reviewed after last week's accidental launch.",
-            "url": "https://www.aljazeera.com/news/2022/3/15/india-reviews-procedures-missile-accidentally-fired-pakistan",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/03/2022-03-12T001542Z_1912627920_RC2I0T9IVUWC_RTRMADP_3_PAKISTAN-INDIA-MILITARY.jpg?quality=80&resize=1024%2C630",
-            "publishedAt": "2022-03-15T07:32:07Z",
-            "content": "India is conducting a review of its procedures for operations, maintenance and inspection of weapons systems after accidentally launching a missile into Pakistan last week, its defence minister says.\u2026 [+1111 chars]"
+            "author": "Jonathan Landay and Gibran Naiyyar Peshimam",
+            "title": "What political upheaval in Pakistan means for rest of the world - CTV News",
+            "description": "Pakistan Prime Minister Imran Khan faces a no-confidence vote in parliament on Saturday which he is widely expected to lose. Here is what the upheaval, which comes as the economy is in deep trouble, means for countries closely involved in Pakistan.",
+            "url": "https://www.ctvnews.ca/world/what-political-upheaval-in-pakistan-means-for-rest-of-the-world-1.5854093",
+            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.5854103.1649432428!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2022-04-08T15:44:55Z",
+            "content": "WASHINGTON/ISLAMABAD -- \r\nPakistan Prime Minister Imran Khan faces a no-confidence vote in parliament on Saturday which he is widely expected to lose.\r\nIf that happens, or he resigns before then, a n\u2026 [+5103 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Al Jazeera",
-            "title": "Pakistan, Australia matches moved to Lahore on \u2018political\u2019 ground",
-            "description": "Several political rallies for and against the government are planned in Islamabad in the coming days and weeks.",
-            "url": "https://www.aljazeera.com/sports/2022/3/18/pakistan-australia-matches-moved-to-lahore-on-political-ground",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/03/2017-10-28T144602Z_465974114_RC1805CDED90_RTRMADP_3_CRICKET-SRI-LANKA-PAKISTAN.jpg?resize=1200%2C630",
-            "publishedAt": "2022-03-18T17:36:41Z",
-            "content": "Three One-Day Internationals (ODIs) and a Twenty20 match between Pakistan and the visiting Australians later this month have been moved from Rawalpindi to Lahore because of domestic politics, the int\u2026 [+1285 chars]"
+            "author": null,
+            "title": "Pakistan's parliament set to elect new prime minister - Reuters",
+            "description": "Pakistan's parliament was set to meet on Monday to elect a new prime minister, with opposition leader Shehbaz Sharif the favourite to win after a week-long constitutional crisis that climaxed on Sunday when Imran Khan lost a no-confidence vote.",
+            "url": "https://www.reuters.com/world/asia-pacific/pakistans-parliament-set-elect-new-prime-minister-2022-04-11/",
+            "urlToImage": "https://www.reuters.com/resizer/ueof-gOcShVAY9vJkBKX1vV8AbY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TGYZH7BLWJNVBIQMYLIPB3LDAY.jpg",
+            "publishedAt": "2022-04-11T06:58:00Z",
+            "content": "ISLAMABAD, April 11 (Reuters) - Pakistan's parliament was set to meet on Monday to elect a new prime minister, with opposition leader Shehbaz Sharif the favourite to win after a week-long constitutio\u2026 [+2764 chars]"
         },
         {
             "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Al Jazeera",
-            "title": "Pakistan vs Australia: Babar Azam\u2019s record-breaking Test heroics",
-            "description": "Azam's 196 against Australia puts him up there with some greats in the long form of the game.",
-            "url": "https://www.aljazeera.com/news/2022/3/17/pakistan-vs-australia-babar-azams-record-breaking-test-heroics",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/03/AP22075367644750.jpg?resize=1200%2C630",
-            "publishedAt": "2022-03-17T10:05:11Z",
-            "content": "Pakistan captain Babar Azam has long established his credentials in limited-overs cricket, but his 196 against Australia has put him up there with some greats in the long form of the game too.\r\nAzam \u2026 [+3567 chars]"
+            "author": null,
+            "title": "Factbox: No Pakistani prime minister has completed a full tenure - Reuters",
+            "description": "No prime minister has completed a full five-year tenure in Pakistan's 75-year history - a trend extended with the ouster of Imran Khan, who lost a no-confidence vote on Sunday.",
+            "url": "https://www.reuters.com/world/asia-pacific/no-pakistani-prime-minister-has-completed-full-tenure-2022-04-09/",
+            "urlToImage": "https://www.reuters.com/resizer/5KA_CMOGQOmk9FJxZ_7mC5HXZGg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GU5TJN5ILFODDHWIWGMO4I3K5I.jpg",
+            "publishedAt": "2022-04-09T20:21:00Z",
+            "content": "KARACHI, Pakistan, April 10 (Reuters) - No prime minister has completed a full five-year tenure in Pakistan's 75-year history - a trend extended with the ouster of Imran Khan, who lost a no-confidenc\u2026 [+4968 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Kamran Haider and Ismail Dilawar",
+            "title": "Pakistan\u2019s Parliament Elects Shahbaz Sharif as Prime Minister After Khan Exit",
+            "description": "Pakistan\u2019s parliament elected opposition leader Shahbaz Sharif as prime minister after Imran Khan lost the support of lawmakers",
+            "url": "https://time.com/6165802/pakistan-imran-khan-shahbaz-sharif/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2022/04/GettyImages-1239813241.jpg?quality=85&w=1024&h=628&crop=1",
+            "publishedAt": "2022-04-11T13:24:23Z",
+            "content": "Pakistan\u2019s parliament elected opposition leader Shahbaz Sharif as prime minister, ending weeks of political turmoil since former cricket star Imran Khan lost the support of lawmakers and tried to pre\u2026 [+2509 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Pakistan's Khan vows to fight on after court rules against him - Reuters",
+            "description": "Pakistan's Prime Minister Imran Khan is due to address the nation on Friday after the Supreme Court ruled he acted unconstitutionally in blocking an attempt to oust him - a decision that could end his premiership in days.",
+            "url": "https://www.reuters.com/world/asia-pacific/pakistans-khan-vows-fight-after-court-rules-against-him-2022-04-08/",
+            "urlToImage": "https://www.reuters.com/resizer/9Q5OIXH3dgfuFtJnmLGJ8a5z9Rs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6WSK6QZF5JFJDEIORLTPDS6AE.jpg",
+            "publishedAt": "2022-04-08T04:05:00Z",
+            "content": "ISLAMABAD, April 8 (Reuters) - Pakistan's Prime Minister Imran Khan is due to address the nation on Friday after the Supreme Court ruled he acted unconstitutionally in blocking an attempt to oust him\u2026 [+3193 chars]"
         },
         {
             "source": {
                 "id": "vice-news",
                 "name": "Vice News"
             },
-            "author": "Pallavi Pundir, Sahar Habib Ghazi",
-            "title": "Why the World\u2019s Biggest Democracy Is Silent on Russia\u2019s Invasion of Ukraine",
-            "description": "As Ukraine is bombed, India finds itself in a tight spot \u2013 between its biggest arms dealer and its largest trading partner.",
-            "url": "https://www.vice.com/en/article/akvqvk/india-diplomacy-arms-russia-us-ukraine-invasion",
-            "urlToImage": "https://video-images.vice.com/articles/623073b01b4fc1009bee01d9/lede/1647350203999-gettyimages-961033486.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43NzA0eGg7MHh3LDAuMDM3MnhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
-            "publishedAt": "2022-03-15T13:33:09Z",
-            "content": "Three. That\u2019s the number of times the 193-memberUN General Assembly and 15-nation UN SecurityCouncil came together in the last month to vote against Russia\u2019s invasion of Ukraine. And every single tim\u2026 [+8738 chars]"
+            "author": "Rimal Farrukh, Sahar Habib Ghazi",
+            "title": "Turmoil in Pakistan After Its Prime Minister Accuses the US of Trying to Oust Him",
+            "description": "The allegations were followed by a constitutional crisis, dissolved parliament, and ministers resigning every day.",
+            "url": "https://www.vice.com/en/article/93bjky/pakistan-turmoil-prime-minister-imran-khan-accuses-america-of-trying-to-oust-him",
+            "urlToImage": "https://video-images.vice.com/articles/624be8725ebecb009b2874d9/lede/1649152114595-0001kk1qz.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NTgyeGg7MHh3LDAuMDA0NHhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+            "publishedAt": "2022-04-05T11:27:47Z",
+            "content": "Pakistan is facing a sudden power vacuum after its president dissolved parliament and called for early elections that could give a fresh mandate to Prime Minister Imran Khan, who has accused the Unit\u2026 [+5633 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Techmeme.com"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": null,
-            "title": "Pakistan-based Bazaar, which operates a B2B marketplace for merchants and helps them digitize their bookkeeping, raises a $70M Series B (Manish Singh/TechCrunch)",
-            "description": "Manish Singh / TechCrunch:\nPakistan-based Bazaar, which operates a B2B marketplace for merchants and helps them digitize their bookkeeping, raises a $70M Series B\u00a0 \u2014\u00a0 Dragoneer Investment and Tiger Global are backing Bazaar, a startup that is attempting to di\u2026",
-            "url": "https://www.techmeme.com/220315/p1",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/bazaar-raises-70-million-pakistan.jpg?w=646",
-            "publishedAt": "2022-03-15T06:45:09Z",
-            "content": "Data Elixir\r\nA weekly dose of the top data science picks from around the web. Covering machine learning, data visualization, analytics, and strategy."
+            "author": "Associated Press",
+            "title": "Ousted prime minister of Pakistan vows to fight on",
+            "description": "Imran Khan has claimed the United States worked behind the scenes to bring him down.",
+            "url": "https://www.politico.com/news/2022/04/10/ousted-prime-minister-pakistan-00024300",
+            "urlToImage": "https://static.politico.com/76/bf/ac0444934a87ba1d73da2401b87e/20220410-pakistan-ap-773.jpg",
+            "publishedAt": "2022-04-10T16:51:58Z",
+            "content": "Khans successor is to be elected and sworn in by Parliament on Monday. The leading contender is Shahbaz Sharif, a brother of disgraced former prime minister Nawaz Sharif.\r\nShahbaz Sharif heads the la\u2026 [+4543 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Apartment Therapy"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Sarah Everett",
-            "title": "Before and After: A Boring '90s Powder Room Is Now Unrecognizably Chic",
-            "description": "There\u2019s nothing wrong with soft beige, but when every surface of a room is a buttery tan color, it can be a bit boring on the eyes. DIYer and home blogger Sana Faheem (@lively_lair)\u2019s basement bathroom, an un-upgraded room from the year her house was built in\u2026",
-            "url": "https://www.apartmenttherapy.com/green-paneled-bathroom-redo-5000-dollars-37053796",
-            "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fhome-projects%2F2022-03%2FSana%20Faheem%2Fsana_before_tagged",
-            "publishedAt": "2022-03-19T17:00:00Z",
-            "content": "We independently select these products\u2014if you buy from one of our links, we may earn a commission.\r\nTheres nothing wrong with soft beige, but when every surface of a room is a buttery tan color, it c\u2026 [+2871 chars]"
+            "author": "Qamar Zaman",
+            "title": "Pakistan top court delays ruling on political crisis",
+            "description": "Multiple petitions challenge Prime Minister Khan\u2019s decision to dissolve parliament amid political turmoil.",
+            "url": "https://www.aljazeera.com/news/2022/4/5/pakistan-polls-uncertain-as-top-court-delays-ruling",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/04/AP22093146545446.jpg?resize=1200%2C630",
+            "publishedAt": "2022-04-05T15:45:14Z",
+            "content": "Islamabad, Pakistan Pakistans Supreme Court has adjourned without ruling on the legality of Prime Minister Imran Khans move to dissolve parliament and call new elections.\r\nA five-judge bench of Pakis\u2026 [+3725 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Indian Express"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "PTI",
-            "title": "Will take up four-nation proposal with Sourav Ganguly at ACC meeting: Ramiz Raja",
-            "description": "The former captain also expressed confidence that India would come to Pakistan to play in the Asia Cup next year.",
-            "url": "https://indianexpress.com/article/sports/cricket/will-take-up-four-nation-proposal-with-sourav-ganguly-at-acc-meeting-ramiz-raja-7820851/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/ramiz-raja.jpg",
-            "publishedAt": "2022-03-15T09:32:41Z",
-            "content": "Undeterred by India\u2019s lack of interest, Pakistan Cricket Board chairman Ramiz Raja says he will discuss his proposal to launch a four-nation ODI tournament with BCCI counterpart Sourav Ganguly during\u2026 [+1351 chars]"
+            "author": "Nadim Asrar",
+            "title": "Pakistan political crisis live news: Court hears opposition pleas",
+            "description": "Top court begins hearing arguments on whether PM Khan had legal right to dissolve parliament and call for early polls.",
+            "url": "https://www.aljazeera.com/news/2022/4/5/pakistan-political-crisis-live-news-supreme-court-imran-khan-liveblog",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/01/AP21028333256035.jpg?resize=1200%2C630",
+            "publishedAt": "2022-04-05T07:13:24Z",
+            "content": "<ul><li>Pakistans top court has resumed hearing arguments on whether Prime Minister Imran Khan and his allies had the legal right to dissolve parliament and call for early elections.</li><li>On Sunda\u2026 [+2590 chars]"
         },
         {
             "source": {
@@ -151,12 +203,51 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "Fear of political turmoil as Pakistan PM faces no-confidence vote",
-            "description": "Opposition parties filed the motion against Imran Khan saying he had lost his parliamentary majority.",
-            "url": "https://www.aljazeera.com/news/2022/3/20/pakistan-pm-khan-faces-no-confidence-motion-next-week",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/10/2021-10-04T115332Z_823561036_RC2Z2Q9TTK09_RTRMADP_3_PANDORA-PAPERS-PAKISTAN-1.jpg?resize=1200%2C630",
-            "publishedAt": "2022-03-20T15:46:24Z",
-            "content": "Pakistans parliament will convene on Friday to take up a no-confidence motion against Prime Minister Imran Khan, the lower house speakers office said on Sunday, heightening fears of political turmoil\u2026 [+2350 chars]"
+            "title": "Pakistan PM Imran Khan loses no-confidence vote",
+            "description": "Pakistan's leader is ousted from office after 174 members voted against him in parliament.",
+            "url": "https://www.aljazeera.com/news/2022/4/9/pakistan-prime-minister-imran-khan-no-confidence-vote",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/06/2021-06-04T170638Z_1895042951_RC2TTN9ANHTJ_RTRMADP_3_PAKISTAN-PRIMEMINISTER-ENVIRONMENT.jpg?resize=1200%2C630",
+            "publishedAt": "2022-04-09T20:03:49Z",
+            "content": "Pakistans Prime Minister Imran Khan has been deposed by a no-confidence vote in parliament, days after he blocked a similar attempt.\r\nThe passing of the motion on Saturday came after the countrys Sup\u2026 [+1749 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Q Zaman",
+            "title": "Spotlight on Pakistan Supreme Court amid constitutional crisis",
+            "description": "A bench headed by Pakistan\u2019s chief justice is hearing petitions challenging PM Imran Khan\u2019s dissolution of parliament.",
+            "url": "https://www.aljazeera.com/news/2022/4/6/all-eyes-on-pakistan-supreme-court-amid-constitutional-crisis",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/04/2022-04-06T130014Z_1546608347_RC2PHT9BWMUR_RTRMADP_3_PAKISTAN-POLITICS-1.jpg?resize=1200%2C630",
+            "publishedAt": "2022-04-06T17:37:18Z",
+            "content": "Islamabad, Pakistan Pakistans Supreme Court has again delayed ruling on the legality of Prime Minister Imran Khans move to dissolve parliament and call fresh elections.\r\nA five-judge bench of the Sup\u2026 [+4136 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Associated Press",
+            "title": "Pakistan's embattled PM ousted in no-confidence vote",
+            "description": "Anticipating his loss, Khan, who charged his opposition colluded with the United States to unseat him, has called on his supporters to stage rallies nationwide on Sunday.",
+            "url": "https://www.politico.com/news/2022/04/09/pakistans-embattled-pm-ousted-in-no-confidence-vote-00024270",
+            "urlToImage": "https://static.politico.com/37/f0/ebae125144628eef1a54385642e6/pakistan-politics-19890.jpg",
+            "publishedAt": "2022-04-09T20:41:06Z",
+            "content": "Anticipating his loss, Khan, who charged his opposition colluded with the United States to unseat him, has called on his supporters to stage rallies nationwide on Sunday. Khans options are limited an\u2026 [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Polly Toynbee",
+            "title": "Labour has shelves of winning policies. Now the party must get people to listen | Polly Toynbee",
+            "description": "As Johnson\u2019s cabinet flounders, Starmer\u2019s team has some brilliant ideas to improve this country. But voters also want a clear visionRipe plums fall into Labour\u2019s lap. Without the opposition lifting a finger, each day brings another revelation that tells waver\u2026",
+            "url": "https://amp.theguardian.com/commentisfree/2022/apr/12/labour-winning-policies-party-keir-starmer-public",
+            "urlToImage": "https://i.guim.co.uk/img/media/0d30de7eeb10f163a605f900a8b5897767542c83/0_94_5234_3139/master/5234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=00a68a5a6d19bc06038105c99b769a6e",
+            "publishedAt": "2022-04-12T05:00:09Z",
+            "content": "Ripe plums fall into Labours lap. Without the opposition lifting a finger, each day brings another revelation that tells wavering voters all they need to know about what these bumptious ministers thi\u2026 [+6959 chars]"
         },
         {
             "source": {
@@ -164,103 +255,12 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "Several Pakistan MPs defect from PM\u2019s party before no-trust vote",
-            "description": "Development comes a day after a key ally said Imran Khan was in danger of losing his coalition partners.",
-            "url": "https://www.aljazeera.com/news/2022/3/18/pakistan-mps-defect-pm-imran-khan-pti-party-no-confidence-vote",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/03/2022-03-17T152956Z_1012320064_RC2F4T93IEZ9_RTRMADP_3_PAKISTAN-POLITICS.jpg?resize=1200%2C630",
-            "publishedAt": "2022-03-18T05:16:47Z",
-            "content": "Several legislators from Pakistan Prime Minister Imran Khans ruling party have withdrawn their support for him ahead of a no-confidence vote, stoking more uncertainty over whether the former crickete\u2026 [+1838 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "Express Web Desk",
-            "title": "Pakistan: Massive explosion heard in Sialkot\u2019s military Cannt area",
-            "description": "Several residents shared videos of the alleged explosion on social media, with some claiming that multiple blasts were heard in the area.",
-            "url": "https://indianexpress.com/article/world/pakistan-massive-explosion-heard-in-military-cannt-area-in-sialkot-7827754/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/pak-explosion.png",
-            "publishedAt": "2022-03-20T06:14:37Z",
-            "content": "A massive explosion was heard in the city of Sialkot in Pakistan on Sunday, according to media reports. A loud blast was reportedly heard near the military cantonment area in Pakistans Punjab provinc\u2026 [+674 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "PTI/AP",
-            "title": "My best Test innings, says Pakistan captain Babar Azam",
-            "description": "Pakistan captain Babar Azam hit a career-best 196 before the tailenders hung in to escape with a draw in the second test against Australia on Wednesday.",
-            "url": "https://indianexpress.com/article/sports/cricket/my-best-test-innings-says-pakistan-captain-babar-azam-7823266/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/Azam.jpg",
-            "publishedAt": "2022-03-16T16:38:15Z",
-            "content": "Pakistan captain Babar Azam has rated his 196 in the second Test against Australia as \u201cone of his best innings\u201d which has helped his team draw the game from a precarious position.Pakistan in pursuit \u2026 [+4385 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "Express News Service",
-            "title": "Karatarpur in Pakistan a Partition mistake: Amit Shah",
-            "description": "Lauding the role played by LPAI in operationalising Kartarpur corridor, Shah said it had created good relations among Hindu and Sikh devotees across the world and provided a medium to express faith",
-            "url": "https://indianexpress.com/article/india/karatarpur-in-pakistan-partition-mistake-shah-7825071/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/AM17032022AmitShah9.jpg",
-            "publishedAt": "2022-03-17T15:01:00Z",
-            "content": "Letting Pakistan have the Kartarpur Sahib gurdwara during the Partition was a mistake as it was just six kilometre away, Home Minister Amit Shah said on Thursday.Subscribe Now: Get Express Premium to\u2026 [+2029 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Zia ur-Rehman and Salman Masood",
-            "title": "Religion-Fueled Mobs on the Rise Again in Pakistan",
-            "description": "The recent lynching of a man accused of burning pages from a Quran underscored Pakistan\u2019s leading status as a site of religious violence.",
-            "url": "https://www.nytimes.com/2022/03/20/world/asia/pakistan-blasphemy-religious-violence.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/03/20/world/20pakistan-blasphemy1/20pakistan-blasphemy1-facebookJumbo.jpg",
-            "publishedAt": "2022-03-20T18:23:57Z",
-            "content": "In 2021, at least 84 people faced blasphemy accusations in courts and from angry street mobs, according to the Centre for Social Justice, a Lahore-based minority rights group. Three people, including\u2026 [+1120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "Express News Service",
-            "title": "Telangana: NCB arrests pharma firm MD, four others for \u2018exporting\u2019 Tramadol to Pakistan",
-            "description": "NCB officials said that a search was conducted on Lucent Drugs Pvt Ltd, a pharma company in Sangareddy district, which manufactures Integrated API and Intermediates, and is also one of the key exporters of Tramadol.",
-            "url": "https://indianexpress.com/article/india/india-news-india/telangana-ncb-arrests-pharma-firm-md-for-exporting-tramadol-pakistan-7827294/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/arrest-19-2-2.jpg",
-            "publishedAt": "2022-03-19T16:15:18Z",
-            "content": "The Bengaluru unit of the Narcotics Control Bureau (NCB) on Friday arrested the managing director, associate vice president and three other employees of a pharmaceutical company in Telangana for alle\u2026 [+1651 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nakedcapitalism.com"
-            },
-            "author": "Jerri-Lynn Scofield",
-            "title": "Links 3/20/2022",
-            "description": "Our popular daily Links, including fashion rental, burnout, curry, seawood albums, Seychelles, Pakistan Chile, Afghanistan, Maria Theresa, Gandhi's sedition trial, Hunter Biden, fishers, Amazon, Michigan power shutoff, witching.",
-            "url": "https://www.nakedcapitalism.com/2022/03/links-3-20-2022.html",
-            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2022/03/FOMFRJnVcAMnWsr-e1647697088922.jpeg",
-            "publishedAt": "2022-03-20T10:55:33Z",
-            "content": "Dear patient readers,\r\nLambert and I, and many readers, agree that Ukraine has prompted the worst informational environment ever. We hope readers will collaborate in mitigating the fog of war \u2014 both \u2026 [+7293 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Indian Express"
-            },
-            "author": "IE Online",
-            "title": "Babar hundred stalls Australia\u2019s victory march in Karachi",
-            "description": "Earlier, Australia batted for 25 minutes on Tuesday before declaring their second innings on 97-2, challenging Pakistan to pull off the greatest fourth innings chase in test cricket history",
-            "url": "https://indianexpress.com/article/sports/cricket/babar-hundred-stalls-australia-victory-march-in-karachi-7821472/",
-            "urlToImage": "https://images.indianexpress.com/2022/03/Pakistan-Australia.jpg",
-            "publishedAt": "2022-03-15T16:40:37Z",
-            "content": "Babar Azam\u2019s glorious unbeaten 102 kept Pakistan alive but Australia remained on course for victory in the second test in Karachi on Tuesday.Set a record victory target of 506, Pakistan lost two quic\u2026 [+2667 chars]"
+            "title": "Pakistan military rejects Khan\u2019s claim US conspired to remove him",
+            "description": "Military spokesman rejects former PM Imran Khan's allegation that the US conspired to topple his government.",
+            "url": "https://www.aljazeera.com/news/2022/4/14/pakistan-military-rejects-khans-theory-us-conspired-to-oust-him",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/04/AP22103773920088.jpg?resize=1200%2C630",
+            "publishedAt": "2022-04-14T18:59:20Z",
+            "content": "Pakistans powerful military has dismissed deposed Prime Minister Imran Khans accusation that the United States had conspired to topple him in a parliamentary vote of confidence.\r\nKhan, 69, who led th\u2026 [+2563 chars]"
         }
     ]
 }

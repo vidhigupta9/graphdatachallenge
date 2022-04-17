@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 2597,
+    "totalResults": 65,
     "articles": [
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "HuffPost"
             },
-            "author": "kbalevic@insider.com (Katie Balevic)",
-            "title": "Former Kentucky county clerk Kim Davis violated gay couples' rights by refusing to marry them, federal judge rules",
-            "description": "Former Kentucky county clerk Kim Davis understood the Supreme Court's 2015 gay marriage decision,\" but still refused to issue marriage licenses, a federal judge said.",
-            "url": "https://www.businessinsider.com/kentucky-clerk-violated-gay-couples-rights-refusing-marry-them-judge-2022-3",
-            "urlToImage": "https://i.insider.com/623600cb927f4a001886b0cf?width=1200&format=jpeg",
-            "publishedAt": "2022-03-19T16:27:14Z",
-            "content": "A federal judge on Friday ruled that former Kentucky county clerk Kim Davis violated two gay couples' constitutional rights when she refused to marry them.\u00a0\r\nDavis briefly went to jail in 2015 for re\u2026 [+4170 chars]"
+            "author": "Ron Dicker",
+            "title": "Teen Tennis Player Slaps Opponent After Losing International Match",
+            "description": "The French teenager apologized and explained he and his mother had endured \"verbal assaults.\"",
+            "url": "https://www.huffpost.com/entry/tennis-slap-juniors-ghana_n_624e9fc1e4b0587dee72ecae",
+            "urlToImage": "https://img.huffingtonpost.com/asset/624eabde1e0000836e1b218c.jpeg?ops=1778_1000",
+            "publishedAt": "2022-04-07T11:27:08Z",
+            "content": "A French junior tennis player just struck a rival with a slap likely to be another one heard around the world.\r\nMichael Kouame, the top seed in the Tennis Foundation Ghana Open, lashed an open hand a\u2026 [+1415 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Rolling Stone"
             },
-            "author": "ESPN staff",
-            "title": "March Madness 2022: Coach K vs. Tom Izzo, the 'Buckets' family and more from Sunday's NCAA tournament games",
-            "description": "After an exciting Saturday of NCAA Tournament action, Sunday brings more compelling matchups. Coach K faces Tom Izzo for the final time and Auburn's Jabari Smith takes the floor.",
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/33540894/march-madness-2022-best-upsets-action-moments-sunday-ncaa-tournament-games",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0319%2Fr988730_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-03-20T15:35:40Z",
-            "content": "March Madness 2022 has been an entertaining ride, and it's just getting started.\r\nSaturday's slate of NCAA tournament games saw 8-seed North Carolina upset the defending champion Baylor Bears. Michig\u2026 [+3148 chars]"
+            "author": "Daniel Kreps",
+            "title": "Will Smith Banned From the Oscars for Next 10 Years",
+            "description": "Despite actor's resignation, the Academy imposes hefty, decade-long punishment against Smith following his Oscars slap of Chris Rock",
+            "url": "https://www.rollingstone.com/movies/movie-news/will-smith-oscar-10-year-ban-chris-rock-academy-1335039/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/03/CP_B2058c.jpg",
+            "publishedAt": "2022-04-08T19:28:31Z",
+            "content": "Although Will Smithresigned from the Academy following his Oscars slap of Chris Rock, the organization has imposed a hefty penalty against the actor: A 10-year ban from the Oscars, as well as all Aca\u2026 [+2347 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": null,
-            "title": "Dodgers sign former MVP Freeman - Reuters.com",
-            "description": "The Los Angeles Dodgers have added slugger Freddie Freeman to their already potent lineup after the 2020 National League MVP agreed to a six-year deal reportedly worth $162 million.",
-            "url": "https://www.reuters.com/lifestyle/sports/dodgers-sign-former-mvp-freeman-2022-03-18/",
-            "urlToImage": "https://www.reuters.com/resizer/TFUTCh8fuKimqMtXgnEo0F0CSnc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RTIX4IGK7ZOB7EPS37I3XD4TPU.jpg",
-            "publishedAt": "2022-03-18T20:01:00Z",
-            "content": "LOS ANGELES, March 18 (Reuters) - The Los Angeles Dodgers have added slugger Freddie Freeman to their already potent lineup after the 2020 National League MVP agreed to a six-year deal reportedly wor\u2026 [+1645 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Paris taxi driver files lawsuit against Tesla after fatal crash - Reuters.com",
-            "description": "A Paris taxi driver whose Tesla Model 3 crashed in December, killing one person, has filed a legal complaint against the U.S. carmaker, his lawyer said on Sunday.",
-            "url": "https://www.reuters.com/world/europe/paris-taxi-driver-files-lawsuit-against-tesla-after-fatal-crash-2022-03-20/",
-            "urlToImage": "https://www.reuters.com/resizer/1YPN8whLeYci7zCxj5IlK6ddZHQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6YNM2OSRNJK73GNWRK5TNKJ5YE.jpg",
-            "publishedAt": "2022-03-20T15:02:00Z",
-            "content": "PARIS, March 20 (Reuters) - A Paris taxi driver whose Tesla Model 3 crashed in December, killing one person, has filed a legal complaint against the U.S. carmaker, his lawyer said on Sunday.\r\nThe Fre\u2026 [+1795 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Fergal Smith",
-            "title": "CANADA STOCKS-TSX sets record high, helped by resilience to higher interest rates - Reuters.com",
-            "description": "Canada's main stock index climbed on Friday to a record high as investors stuck with bets that rising interest rates and elevated commodity prices would play to the strengths of the financial and resource-heavy market.",
-            "url": "https://www.reuters.com/article/canada-stocks-idUSL2N2VL1WH",
-            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-            "publishedAt": "2022-03-18T21:26:00Z",
-            "content": "(Adds investor quote and details throughout; updates prices)\r\n* TSX ends up 47.25 points, or 0.2%, at 21,818.47\r\n* Index gains 1.7% for the week\r\n* Technology rises 1.6%\r\n* Turquoise Hill Resources L\u2026 [+2034 chars]"
+            "author": "Andrew Dalton",
+            "title": "ACADEMY SLAPS BACK",
+            "description": "LOS ANGELES (AP) \u2014 The motion picture academy on Friday banned Will Smith from attending the Oscars or any other academy event for 10 years following his slap of Chris Rock at the Academy Awards .",
+            "url": "https://apnews.com/article/will-smith-oscars-ban-664346ac2d2441939764f35be2d8026b",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/38c8801565464e4d8ad9e33bcd4a267c/3000.jpeg",
+            "publishedAt": "2022-04-09T02:19:38Z",
+            "content": "LOS ANGELES (AP) The motion picture academy on Friday banned Will Smith from attending the Oscars or any other academy event for 10 years following his slap of Chris Rock at the Academy Awards. \r\nThe\u2026 [+3701 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "9to5Mac"
+                "name": "Forbes"
             },
-            "author": "Allison McDaniel",
-            "title": "Apple hit with lawsuit for alleged sexual harassment on Apple TV+ film set",
-            "description": "In a report from Bloomberg, Apple is facing a lawsuit by a woman working on the set of the upcoming film Emancipation. Emancipation is an upcoming thriller on Apple TV+ starring Will Smith. \n more\u2026\nThe post Apple hit with lawsuit for alleged sexual harassment\u2026",
-            "url": "https://9to5mac.com/2022/03/17/apple-lawsuit-sexual-harassment-apple-tv-film/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/apple-lawsuit-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2022-03-17T14:22:04Z",
-            "content": "In a report from Bloomberg, Apple is facing a lawsuit by a woman working on the set of the upcoming film Emancipation. Emancipation is an upcoming thriller on Apple TV+ starring Will Smith. \r\nAlicia \u2026 [+1308 chars]"
+            "author": "Edward Segal, Senior Contributor, \n Edward Segal, Senior Contributor\n https://www.forbes.com/sites/edwardsegal/",
+            "title": "As Punishment For Slapping Incident, Will Smith Is Banned From Attending Oscar Ceremonies For 10 Years",
+            "description": "The Academy of Motion Picture Arts and Sciences announced its sanction against actor Will Smith for slapping  comedian Chris Rock on stage at the recent Oscar ceremonies.",
+            "url": "https://www.forbes.com/sites/edwardsegal/2022/04/08/as-punishment-for-slapping-incident-will-smith-is-banned-from-attending-oscar-ceremonies-for-10-years/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6250927690859e2545392582/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-04-08T20:10:43Z",
+            "content": "US actor Will Smith (R) slaps US actor Chris Rock onstage during the 94th Oscars at the Dolby ... [+] Theatre in Hollywood, California on March 27, 2022. (Photo by Robyn Beck / AFP) (Photo by ROBYN B\u2026 [+2573 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Forbes"
             },
-            "author": "Robert Kitson in Paris",
-            "title": "Avoiding Paris pain would only paper cracks for Jones\u2019s maddening England | Robert Kitson",
-            "description": "Eddie Jones\u2019s side can deny France a first grand slam since 2010 on Saturday but the contrast between the sides is strikingAs Voltaire put it: \u201cLife is a shipwreck but we must not forget to sing in the lifeboats.\u201d The great French philosopher might just as we\u2026",
-            "url": "https://amp.theguardian.com/sport/2022/mar/18/eddie-joness-inconsistent-england-stand-in-way-of-french-grand-slam",
-            "urlToImage": "https://i.guim.co.uk/img/media/8f44d4cf00abe1634ae33195731ecc8b8729b2d4/0_98_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=756f6c9a58cd39d9f250d8f3804e218a",
-            "publishedAt": "2022-03-18T14:14:35Z",
-            "content": "As Voltaire put it: Life is a shipwreck but we must not forget to sing in the lifeboats. The great French philosopher might just as well have been referencing Eddie Joness England before their final \u2026 [+6193 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Bank of England set to raise rates again as uncertainty swirls - Reuters",
-            "description": "The Bank of England looks set to press on with raising interest rates on Thursday as it tries to stop soaring inflation from becoming engrained in the British economy.",
-            "url": "https://www.reuters.com/business/finance/bank-england-set-raise-rates-again-uncertainty-swirls-2022-03-17/",
-            "urlToImage": "https://www.reuters.com/resizer/fri21jRwgobboEJPdVX5EAN_IE0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JBZ7PXDYL5L5DHRTUW37YPXCZY.jpg",
-            "publishedAt": "2022-03-17T00:14:00Z",
-            "content": "LONDON, March 17 (Reuters) - The Bank of England looks set to press on with raising interest rates on Thursday as it tries to stop soaring inflation from becoming engrained in the British economy.\r\nA\u2026 [+3744 chars]"
+            "author": "Edward Segal, Senior Contributor, \n Edward Segal, Senior Contributor\n https://www.forbes.com/sites/edwardsegal/",
+            "title": "As Punishment For Slapping Incident, Will Smith Is Barred From Attending Oscar Ceremonies For 10 Years",
+            "description": "The Academy of Motion Picture Arts and Sciences announced its sanction against actor Will Smith for slapping  comedian Chris Rock on stage at the recent Oscar ceremonies.",
+            "url": "https://www.forbes.com/sites/edwardsegal/2022/04/08/as-punishment-for-slapping-incident-will-smith-is-barred-from-attending-oscar-ceremonies-for-10-years/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6250927690859e2545392582/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2022-04-08T20:10:43Z",
+            "content": "US actor Will Smith (R) slaps US actor Chris Rock onstage during the 94th Oscars at the Dolby ... [+] Theatre in Hollywood, California on March 27, 2022. (Photo by Robyn Beck / AFP) (Photo by ROBYN B\u2026 [+3006 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Www.tsn.ca"
+                "name": "INSIDER"
             },
-            "author": "TSN.ca Staff",
-            "title": "Ice Chips: Habs' Price on ice for morning skate - TSN",
-            "description": "<ol><li>Ice Chips: Habs' Price on ice for morning skate\u00a0\u00a0TSN\r\n</li><li>Canadiens\u2019 Price begins new rehab stage, Drouin returns to lineup\u00a0\u00a0Sportsnet.ca\r\n</li><li>Lineup news: Jonathan Drouin returns to action, Brendan Gallagher out\u00a0\u00a0Habs Eyes on the Prize\r\n</l\u2026",
-            "url": "https://www.tsn.ca/ice-chips-montreal-canadiens-carey-price-morning-skate-1.1773248",
-            "urlToImage": "https://www.tsn.ca/polopoly_fs/1.1716806!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/carey-price.jpg",
-            "publishedAt": "2022-03-19T14:30:33Z",
-            "content": "Keep updated on all the injury news and roster updates from around the NHL with daily Ice Chips.\r\nMontreal Canadiens\r\nFor the first time this season, Habs goaltender Carey Price is on the ice for the\u2026 [+2585 chars]"
+            "author": "Libby Torres",
+            "title": "Billy Crystal: Will Smith slapping Chris Rock was 'assault' - Insider",
+            "description": "<ol><li>Billy Crystal: Will Smith slapping Chris Rock was 'assault'\u00a0\u00a0Insider\r\n</li><li>Poll: More Americans disapprove of Will Smith hitting Chris Rock a week following the Oscars incident\u00a0\u00a0Yahoo Entertainment\r\n</li><li>Will Smith\u2019s Oscars slap has been a \u2018ni\u2026",
+            "url": "https://www.insider.com/will-smith-chris-rock-slap-oscars-video-billy-crystal-2022-4",
+            "urlToImage": "https://i.insider.com/62505fcf00ada10018fc19dd?width=1200&format=jpeg",
+            "publishedAt": "2022-04-08T17:23:49Z",
+            "content": "Billy Crystal weighed in on the altercation between Will Smith and Chris Rock at the 2022 Oscars, calling Smith slapping Rock \"an assault.\"\u00a0\r\nDuring a recent appearance on Bob Costas' \r\nHBO Max talk \u2026 [+1948 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Forbes"
             },
-            "author": "Helena Smith in Mytilene",
-            "title": "Greek court to hear appeals on life sentences for refugees accused of steering dinghies",
-            "description": "Two Afghan men jailed for 50 years who say they were forced by traffickers to drive boats among many asylum seekers sentenced for people smugglingHanad Abdi Mohammad is haunted by nightmares.The dreams start as soon as he opens his eyes in a cell in the squat\u2026",
-            "url": "https://amp.theguardian.com/global-development/2022/mar/18/greek-court-to-hear-appeals-on-life-sentences-for-refugees-accused-of-steering-dinghies",
-            "urlToImage": "https://i.guim.co.uk/img/media/92c391528476dcbf3b8c03c3d316e3fe62686557/0_36_2001_1201/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea8a78b9072980764f9dd8ed9747ce29",
-            "publishedAt": "2022-03-18T12:19:18Z",
-            "content": "Hanad Abdi Mohammad is haunted by nightmares.\r\nThe dreams start as soon as he opens his eyes in a cell in the squat, whitewashed prison building on the Greek island of Chios.\r\nI have the same thought\u2026 [+5236 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Britain's HSBC firms up climate pledge after activist pressure - Reuters",
-            "description": "Britain's HSBC <a href=\"https://www.reuters.com/companies/HSBA.L\" target=\"_blank\">(HSBA.L)</a> toughened its climate commitments and pledged greater openness about its progress on Wednesday after pressure from activists who said they would now withdraw a reso\u2026",
-            "url": "https://www.reuters.com/business/finance/britains-hsbc-firms-up-climate-pledge-after-activist-pressure-2022-03-16/",
-            "urlToImage": "https://www.reuters.com/resizer/VJeHqragAHuG_aARzSffmqRQ1po=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YDCDMV2UWRK5TN6CJL6TLJRHJA.jpg",
-            "publishedAt": "2022-03-16T15:14:00Z",
-            "content": "LONDON, March 16 (Reuters) - Britain's HSBC (HSBA.L) toughened its climate commitments and pledged greater openness about its progress on Wednesday after pressure from activists who said they would n\u2026 [+1928 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S. judge rules against Kentucky clerk who denied same-sex marriage licenses - Reuters.com",
-            "description": "A U.S. judge ruled that a former county clerk from Kentucky knowingly violated the rights of same-sex couples by denying them marriage licenses in 2015, clearing the way for a jury trial seeking damages against her.",
-            "url": "https://www.reuters.com/world/us/us-judge-rules-against-kentucky-clerk-who-denied-same-sex-marriage-licenses-2022-03-19/",
-            "urlToImage": "https://www.reuters.com/resizer/GoJVM6bnQG_WyQWeManu1DF8n2g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YOGJQVVDPZJ35OTJSR2B3WEXS4.jpg",
-            "publishedAt": "2022-03-19T23:34:00Z",
-            "content": "March 19 (Reuters) - A U.S. judge ruled that a former county clerk from Kentucky knowingly violated the rights of same-sex couples by denying them marriage licenses in 2015, clearing the way for a ju\u2026 [+2068 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Russia demands Ukrainian forces lay down arms in Mariupol - Reuters.com",
-            "description": "Russia on Sunday called on Ukrainian forces to lay down their arms in the eastern port city of Mariupol where Moscow said a \"terrible humanitarian catastrophe\" was unfolding.",
-            "url": "https://www.reuters.com/world/europe/russia-demands-ukrainian-forces-lay-down-arms-mariupol-2022-03-20/",
-            "urlToImage": "https://www.reuters.com/resizer/r4IcCu0FP62SbggoILd7nD5v3is=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UDFCKCMDM5MVVJL6H7H4I7WBYI.jpg",
-            "publishedAt": "2022-03-20T21:18:00Z",
-            "content": "LONDON, March 20 (Reuters) - Russia on Sunday called on Ukrainian forces to lay down their arms in the eastern port city of Mariupol where Moscow said a \"terrible humanitarian catastrophe\" was unfold\u2026 [+2425 chars]"
+            "author": "Marisa Dellatto, Forbes Staff, \n Marisa Dellatto, Forbes Staff\n https://www.forbes.com/sites/marisadellatto/",
+            "title": "Meeting Over Will Smith Oscars Slap Moved Up To Friday, Academy Says",
+            "description": "The body will decide if further actions should be taken against Smith, who resigned from the Academy on Friday.",
+            "url": "https://www.forbes.com/sites/marisadellatto/2022/04/06/meeting-over-will-smith-oscars-slap-moved-up-to-friday-academy-says/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62412335ec09b094f5296dce/0x0.jpg?format=jpg&crop=2916,1640,x0,y33,safe&width=1200",
+            "publishedAt": "2022-04-06T17:36:49Z",
+            "content": "The Academy of Motion Picture Arts and Sciences moved its meeting to discuss possible repercussions for Will Smith, who slapped Chris Rock at the Oscars, to Friday,Variety and Deadline reported Wedne\u2026 [+2226 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "The Christian Post"
             },
-            "author": "Michael Segalov",
-            "title": "\u2018These stories change how people think\u2019: actor Ruth Madeley on disability, activism and sex scenes",
-            "description": "A brilliant new BBC drama about disability activism in the 90s is a game-changer but, as its star Ruth Madeley reveals, the fight is far from overRuth Madeley hadn\u2019t intended to cause a commotion in the quiet carriage. She was taking the train to a script rea\u2026",
-            "url": "https://amp.theguardian.com/tv-and-radio/2022/mar/19/ruth-madeley-actor-on-disability-activism-sex-scenes-and-stories-to-change-how-people-think",
-            "urlToImage": "https://i.guim.co.uk/img/media/0b1f48c28daadff6f144fff24b8d8da9e01bfa04/374_865_7561_4537/master/7561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=0f114f47835b9a84809b349552c165c2",
-            "publishedAt": "2022-03-19T15:00:30Z",
-            "content": "Ruth Madeley hadnt intended to cause a commotion in the quiet carriage. She was taking the train to a script read-through on an entirely unremarkable March 2016 morning when, out of the blue, her pho\u2026 [+14298 chars]"
+            "author": "Richard D. Land",
+            "title": "The Will Smith event: Why it matters - The Christian Post",
+            "description": "<ol><li>The Will Smith event: Why it matters\u00a0\u00a0The Christian Post\r\n</li><li>How Hollywood publicists feel about their jobs after the Oscars slap\u00a0\u00a0The Washington Post\r\n</li><li>Will Smith Oscar crisis handled by inner circle fighting to save the actor's brand\u00a0\u00a0\u2026",
+            "url": "https://www.christianpost.com/voices/the-will-smith-event-why-it-matters.html",
+            "urlToImage": "https://cdn.christianpost.com/files/original/thumbnail/24/76/247612.jpg",
+            "publishedAt": "2022-04-07T11:18:11Z",
+            "content": "By Richard D. Land, Christian Post Executive Editor | Thursday, April 07, 2022\r\nActor Will Smith (R) slaps actor Chris Rock onstage during the 94th Oscars at the Dolby Theatre in Hollywood, Californi\u2026 [+7081 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Vulture"
             },
-            "author": "Robert Kitson at the Stade de France",
-            "title": "Antoine Dupont try sinks England and secures grand slam for France",
-            "description": "<ul><li>France 25-13 England</li><li> Galthi\u00e9\u2019s side claim first clean sweep for 12 years</li></ul>There have been some thumping French grand slam victories but never one that has rippled so ominously around the world. Not for a dozen years have France claime\u2026",
-            "url": "https://amp.theguardian.com/sport/2022/mar/19/france-england-six-nations-rugby-union-match-report",
-            "urlToImage": "https://i.guim.co.uk/img/media/712ba59deac1732dc0ea2989ebb76e11da1b4813/0_19_4572_2744/master/4572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=cd0c085f2049a0e55c112ddbab6a62b1",
-            "publishedAt": "2022-03-19T22:04:24Z",
-            "content": "There have been some thumping French grand slam victories but never one that has rippled so ominously around the world. Not for a dozen years have France claimed a Six Nations clean sweep but in many\u2026 [+5127 chars]"
+            "author": "Rebecca Alter",
+            "title": "The Oscars Slaps Will Smith With a Ten-Year Ban",
+            "description": "He remains eligible for nominations and wins.",
+            "url": "http://www.vulture.com/2022/04/will-smith-banned-oscars-ten-years-the-slap.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/3e7/eee/419533d315a2810e9a6814332df86fc38f-will-smith-oscars.1x.rsocial.w1200.jpg",
+            "publishedAt": "2022-04-08T20:04:18Z",
+            "content": "Until they start giving out Academy Awards for stunts and fight choreography, the Academy of Motion Pictures Arts &amp; Sciences will not hold space for slapping at the Oscars. On April 8, the Academ\u2026 [+2429 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Vanity Fair"
             },
-            "author": "Louise Taylor",
-            "title": "Howe maintains tunnel vision amid Newcastle human rights questions",
-            "description": "Manager says he will keep researching topics he is asked about but must answer in the way that is best for him and the teamEddie Howe has always harboured an obstinate streak. During his time in charge of Bournemouth he arranged an 8am press conference on Chr\u2026",
-            "url": "https://amp.theguardian.com/football/2022/mar/16/eddie-howe-tunnel-vision-newcastle-human-rights-questions",
-            "urlToImage": "https://i.guim.co.uk/img/media/4eddd062090a4c3be934451d5f16b7405c12afcf/0_203_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a2db73456ec5a3583e7fe481ccec5c7",
-            "publishedAt": "2022-03-16T15:13:15Z",
-            "content": "Eddie Howe has always harboured an obstinate streak. During his time in charge of Bournemouth he arranged an 8am press conference on Christmas Day and was unconcerned that it might make him unpopular\u2026 [+5208 chars]"
+            "author": "Savannah Walsh",
+            "title": "Ricky Gervais Pitches His Own Jada Pinkett Smith Oscar Joke",
+            "description": "\u201cI wouldn\u2019t have told a joke about his wife\u2019s hair,\u201d the comedian said, referring to Will Smith. \u201cI\u2019d have told a joke about her boyfriend.\u201d",
+            "url": "https://www.vanityfair.com/hollywood/2022/04/ricky-gervais-pitches-his-own-jada-pinkett-smith-oscars-joke",
+            "urlToImage": "https://media.vanityfair.com/photos/625035d6601dd6c71eb3f28a/16:9/w_1280,c_limit/1191955025",
+            "publishedAt": "2022-04-08T14:24:32Z",
+            "content": "Five-time Golden Globes host Ricky Gervais is known for courting controversy with his comedy. As such, he pulled no punches while sharing how he might have handled Will Smith slapping Chris Rock at t\u2026 [+2603 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Dlisted.com"
             },
-            "author": "Paul Daley",
-            "title": "A bridge to empire \u2013 and beyond: Sydney\u2019s \u2018coat hanger\u2019 turns 90",
-            "description": "The building of the Sydney Harbour Bridge was a powerful symbol of where Australia thought it was going \u2013 and who it was leaving behind In early 1924, when work began on arguably this country\u2019s most defining built structure, the Sydney Harbour Bridge, Austral\u2026",
-            "url": "https://amp.theguardian.com/australia-news/2022/mar/18/a-bridge-to-empire-and-beyond-sydneys-coat-hanger-turns-90",
-            "urlToImage": "https://i.guim.co.uk/img/media/ad1db5b014904280c554bfecf19a7a1e1bc1b6bb/0_180_5533_3321/master/5533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6159756dad56d66bd09ca56992f382a7",
-            "publishedAt": "2022-03-18T19:00:07Z",
-            "content": "In early 1924, when work began on arguably this countrys most defining built structure, the Sydney Harbour Bridge, Australia was torn between self-identifying as a loyal outpost of empire and one of \u2026 [+10901 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Ping An Insurance profit falls 29% amid premium income pressure - Reuters.com",
-            "description": "China's Ping An <a href=\"https://www.reuters.com/companies/601318.SS\" target=\"_blank\">(601318.SS)</a>, , the country's largest insurer by market value, reported its biggest annual profit fall since 2008 on Thursday amid pressure on its premium income.",
-            "url": "https://www.reuters.com/legal/transactional/ping-an-insurance-profit-falls-29-amid-premium-income-pressure-2022-03-17/",
-            "urlToImage": "https://www.reuters.com/resizer/n-4maZ9fQsumBTCDHAvHFD1dmss=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SWYNL4KZXZJWLIBTZT3MUTZJHY.jpg",
-            "publishedAt": "2022-03-17T14:47:00Z",
-            "content": "The company and law firm names shown above are generated automatically based on the text of the article. We are improving this feature as we continue to test and develop in beta. We welcome feedback,\u2026 [+2708 chars]"
+            "author": "Michael K",
+            "title": "Night Crumbs",
+            "description": "Some of us were reminded yesterday that Andrew Garfield and Alyssa \"Not Milano\" Miller were a thing after a rumor came out saying that they were no longer a thing and have broken up. BUT WAIT! Now we're hearing that they may not be broken up at all. Toss a fe\u2026",
+            "url": "https://dlisted.com/2022/04/05/night-crumbs-1872/",
+            "urlToImage": "https://dlisted.com/wp-content/uploads/2022/04/andrewgarfieldalyssamiller.jpg",
+            "publishedAt": "2022-04-05T21:45:00Z",
+            "content": "Some of us were reminded yesterday that Andrew Garfield and Alyssa \u201cNot Milano\u201d Miller were a thing after a rumor came out saying that they were no longer a thing and have broken up. BUT WAIT! Now we\u2026 [+1387 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Paul Doyle",
-            "title": "The Fiver | Manchester United and some top, top politics",
-            "description": "Like this? Forward it to your friend(s) and they can sign up hereAstronomers have recently become fascinated with FRB 121102. That\u2019s the name given to a mysterious burst of radio-wave activity in space. It follows a repeating pattern: silence for 67 days, the\u2026",
-            "url": "https://amp.theguardian.com/football/2022/mar/15/the-fiver-manchester-united-ralf-rangnick",
-            "urlToImage": "https://i.guim.co.uk/img/media/5c688da1d413cf9564ea302340693d7bfce994e2/0_487_7330_4398/master/7330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1e244f9c4cc73d20200c151212b480",
-            "publishedAt": "2022-03-15T15:56:06Z",
-            "content": "GET INTERIM \r\nAstronomers have recently become fascinated with FRB 121102. Thats the name given to a mysterious burst of radio-wave activity in space. It follows a repeating pattern: silence for 67 d\u2026 [+7023 chars]"
+            "author": "Nardine Saad",
+            "title": "'Let's ban the Oscars': Academy's Will Smith ban met with disbelief, accusations of racism",
+            "description": "Actor Will Smith's Oscars ban was met with mixed reviews. The film academy was called out for making an example out of a Black man while being lax on others.",
+            "url": "https://news.yahoo.com/lets-ban-oscars-academys-smith-234732704.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/R22xcOifqwcLLXQfHDwCtw--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/17da74ef3ce3ffe6c5a9340c65bce5e8",
+            "publishedAt": "2022-04-08T23:47:32Z",
+            "content": "Will Smith accepts the award for lead actor during the 2022 Oscars. (Myung J. Chun / Los Angeles Times)\r\nWill Smith is facing a 10-year ban from events held by the Academy of Motion Picture Arts and \u2026 [+6994 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Zoe Strozewski",
+            "title": "Will Smith Academy Sanctions Hearing Moved Up After His Resignation",
+            "description": "In a letter, Academy president David Rubin said that the meeting would take place on April 8 rather than April 18 following Smith's resignation.",
+            "url": "https://www.newsweek.com/will-smith-academy-sanctions-hearing-moved-slap-1695680",
+            "urlToImage": "https://d.newsweek.com/en/full/2015944/will-smith-hearing.jpg",
+            "publishedAt": "2022-04-06T18:17:06Z",
+            "content": "The scheduled hearing in which the Academy of Motion Pictures Arts &amp; Sciences is set to decide on potential sanctions against actor Will Smith for slapping Chris Rock at the Oscars will take plac\u2026 [+1003 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Natalie Colarossi",
+            "title": "Chris Rock's Brother Wants Will Smith to Get Oscar Revoked: 'It Eats at Me'",
+            "description": "\"My brother was no threat to him and [Smith] just had no respect for him at that moment,\" Kenny Rock said in a new interview.",
+            "url": "https://www.newsweek.com/chris-rocks-brother-wants-will-smith-get-oscar-revoked-it-eats-me-1695277",
+            "urlToImage": "https://d.newsweek.com/en/full/2015241/will-smith-chris-rock.jpg",
+            "publishedAt": "2022-04-05T18:34:07Z",
+            "content": "Kenny Rock said he does not accept Will Smith's apology for slapping his brother, comedian Chris Rock, during the 2022 Academy Awards ceremony and believes the actor should have his Oscar revoked.\r\nE\u2026 [+3510 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Isabel van Brugen",
+            "title": "Chris Rock Won't Talk About Will Smith's Oscars Slap\u2014'Not Until I Get Paid'",
+            "description": "The comedian previously said he was \"still processing\" the moment he was slapped by Will Smith on stage at the 2022 Oscars ceremony.",
+            "url": "https://www.newsweek.com/chris-rock-talk-will-smith-oscars-slap-paid-jada-pinkett-1696624",
+            "urlToImage": "https://d.newsweek.com/en/full/2017777/chris-rock-struck-will-smith.jpg",
+            "publishedAt": "2022-04-09T12:49:02Z",
+            "content": "Chris Rock on Friday night refused to talk about the moment he was slapped by Will Smith on stage at the 2022 Oscars ceremony.\r\n\"I'm OK, I have a whole show and I'm not talking about that until I get\u2026 [+2565 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "New York Post"
             },
-            "author": "Alexandra Topping",
-            "title": "Child Q scandal: prominent Black Britons call on Met to right wrong",
-            "description": "Exclusive: Letter to police force accuses it of endemic racism, as protests build over strip-searchA group of prominent Black men and women have said they long \u201cfor a day when Black people do not feel unsafe\u201d in the presence of police, as plans for protests g\u2026",
-            "url": "https://amp.theguardian.com/uk-news/2022/mar/18/child-q-scandal-black-britons-letter-to-met-police",
-            "urlToImage": "https://i.guim.co.uk/img/media/03aec914eb0a64cc355b600806cb2b9feb345b5e/0_350_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=346f55d013ebaab4dd35fab35fcec0d0",
-            "publishedAt": "2022-03-18T14:07:47Z",
-            "content": "A group of prominent Black men and women have said they long for a day when Black people do not feel unsafe in the presence of police, as plans for protests gather pace in the wake of the Child Q sca\u2026 [+3449 chars]"
+            "author": "Samantha Ibrahim",
+            "title": "Academy fast tracks Will Smith\u2019s Oscar slap disciplinary review",
+            "description": "Will Smith won the Oscar for Best Actor for his role in \"King Richard\" at this year's ceremony.",
+            "url": "https://nypost.com/2022/04/06/academy-moves-up-will-smiths-oscar-slap-disciplinary-review/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/will-smith-35.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-04-06T18:57:23Z",
+            "content": "Forget slaps, the Academy is pulling no punches.\r\nDiscussion on how to discipline actor Will Smith following the slapping incident that occurred at the Oscars on March 27, has been moved up, accordin\u2026 [+2493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Independent.ie"
+            },
+            "author": "By Alex Green, PA Senior Entertainment Reporter",
+            "title": "Academy moves hearing to discuss Will Smith\u2019s Oscars slap forward",
+            "description": "The board of the Academy of Motion Picture Arts and Sciences has moved its meeting to address Will Smith&rsquo;s actions at the Oscars forward to this Friday in a bid to deal with the incident &ldquo;in a timely fashion&rdquo;.",
+            "url": "https://www.independent.ie/entertainment/movies/academy-moves-hearing-to-discuss-will-smiths-oscars-slap-forward-41527602.html",
+            "urlToImage": "https://www.independent.ie/entertainment/movies/4c2c4/41527599.ece/AUTOCROP/w1240h700/ipanews_21d9cb0b-1e19-4bb9-bea3-74af645b5f3e_1",
+            "publishedAt": "2022-04-06T15:57:39Z",
+            "content": "The board of the Academy of Motion Picture Arts and Sciences has moved its meeting to address Will Smiths actions at the Oscars forward to this Friday in a bid to deal with the incident in a timely f\u2026 [+1521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Screen Rant"
+            },
+            "author": "Adam Bentz",
+            "title": "Amy Schumer Denies Stealing Leonardo DiCaprio Oscars Joke",
+            "description": "Oscars host Amy Schumer denies accusations of stealing the Leonardo DiCaprio joke she made during her monologue from a viral twitter post.",
+            "url": "https://screenrant.com/leonardo-dicaprio-oscars-joke-stolen-amy-schumer-response/",
+            "urlToImage": "https://static2.srcdn.com/wordpress/wp-content/uploads/2022/04/Amy-Schumer-Leonardo-DiCaprio-Oscars-joke-.jpg",
+            "publishedAt": "2022-04-07T17:19:20Z",
+            "content": "Amy Schumer denies stealing the\u00a0Leonardo DiCaprio joke she made during the Oscars. It's been over a week since\u00a0the 94th Academy Awards aired on ABC and the dust is beginning to settle on the various \u2026 [+3782 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Emma Nolan",
+            "title": "Will Smith's Talent Agency Insists 'No Truth' to Axing Rumors",
+            "description": "Creative Artists Agency (CAA) has denied that there was turmoil in the company over a decision to drop Smith from its roster.",
+            "url": "https://www.newsweek.com/will-smith-caa-talent-agency-denies-dropping-actor-slap-oscars-chris-rock-1695124",
+            "urlToImage": "https://d.newsweek.com/en/full/2014922/will-smith.jpg",
+            "publishedAt": "2022-04-05T14:07:40Z",
+            "content": "The talent agency representing Will Smith has denied reports that the company was divided over the decision to drop the actor from their client list following his actions at the Oscars on March 28.\r\n\u2026 [+3218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Brooke Steinberg",
+            "title": "People are actually getting tattoos of the Will Smith, Chris Rock Oscars slap",
+            "description": "The moment will be etched into history forever.",
+            "url": "https://nypost.com/2022/04/05/people-are-getting-tattoos-of-will-smith-slapping-chris-rock/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/slap.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-04-05T15:34:40Z",
+            "content": "People are turning the moment Will Smith slapped Chris Rock into a permanent memory with tattoos.\r\nTattoo artist Jon Arton found it hilarious when someone asked to get the infamous outburst tattooed \u2026 [+2575 chars]"
         }
     ]
 }
