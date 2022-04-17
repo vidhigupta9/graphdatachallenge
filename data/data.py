@@ -4,6 +4,9 @@
 
 import json
 import csv 
+import ast
+import pandas as pd
+
 
 # Opening JSON file and loading the data
 # into the variable data
@@ -15,10 +18,10 @@ articles = data['articles']
 for a in articles:
 	del a['source']['id']
 	del a['author']
-	del a['title']
+	del['url']
 	del a['urlToImage']
 	del a['publishedAt']
-
+	del a['content']
 
 # now we will open a file for writing
 data_file = open('data_file.csv', 'w', newline='')
@@ -46,3 +49,20 @@ for a in articles:
 		pass
 
 data_file.close()
+
+'''
+df = pd.read_csv("data_file.csv",encoding='cp1252')
+
+df['source'] = df['source'].apply(ast.literal_eval)
+
+for i in range(len(df)):
+  df.source[i] = df.source[i]['name']
+
+convert_dict = {'source': 'string',
+                'description': 'string',
+                'url':'string',
+                'content':'string'}  
+  
+df = df.astype(convert_dict)  
+print(df.dtypes)
+'''
