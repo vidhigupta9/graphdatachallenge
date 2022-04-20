@@ -41,6 +41,7 @@ Other additions:
  - **Data**: Refer to [README.md](data/README.md) to create your own database 
  - **Technology Stack**: Python, Machine Learning, GSQL, Tigergraph, Javascript 
  - **Demo**: Watch [Demo]()
+ - **PPT**: [Google Slides](https://docs.google.com/presentation/d/1UQlvZGRYZ7BWTaf-oB7XPoVclkMM7FNros2v_wuiFtU/edit?usp=sharing)
 
 ### Installation
 
@@ -55,3 +56,7 @@ pip install -r requirements.txt
 
 ###  References
 https://devpost.com/software/hyper-news?ref_content=my-projects-tab&ref_feature=my_projects
+
+### Contributors
+**Vidhi Gupta :** gvidhi9@gmail.com
+**Deep Rodge :** deeprodge14@gmail.com
