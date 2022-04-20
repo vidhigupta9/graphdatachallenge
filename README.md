@@ -55,8 +55,11 @@ pip install -r requirements.txt
 ```
 
 ###  References
+
 https://devpost.com/software/hyper-news?ref_content=my-projects-tab&ref_feature=my_projects
 
 ### Contributors
+
 **Vidhi Gupta :** gvidhi9@gmail.com
+
 **Deep Rodge :** deeprodge14@gmail.com
