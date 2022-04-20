@@ -30,7 +30,7 @@ Refer to the [Colab Notebook](https://colab.research.google.com/drive/11fLqhvOJ1
 
 The notebook has each step mentioned in detail and how we utilise tigergraph and gsql to scale our solutions
 
-You can also refer to [This PDF]() for more information on how our solution is
+You can also refer to [This PDF](solution.pdf) for more information on how our solution is
 - Impactful in solving a real world problem 
 - Innovative use case of graph
 - Ambitious and complex graph
