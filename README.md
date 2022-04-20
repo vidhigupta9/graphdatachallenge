@@ -53,6 +53,7 @@ This can include:
 ```
 pip install -r requirements.txt
 ```
+3. Replicate [Colab Notebook](https://colab.research.google.com/drive/11fLqhvOJ1A5juGGS_Mhzwj2ziSNuqN5_?usp=sharing) with your own data
 
 ###  References
 
