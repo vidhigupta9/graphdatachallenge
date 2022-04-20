@@ -52,3 +52,6 @@ This can include:
 ```
 pip install -r requirements.txt
 ```
+
+###  References
+https://devpost.com/software/hyper-news?ref_content=my-projects-tab&ref_feature=my_projects
