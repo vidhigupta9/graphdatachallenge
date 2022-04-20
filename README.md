@@ -30,4 +30,25 @@ Refer to the [Colab Notebook](https://colab.research.google.com/drive/11fLqhvOJ1
 
 The notebook has each step mentioned in detail and how we utilise tigergraph and gsql to scale our solutions
 
-You can also refer to [This PDF]() for more information on our software design
+You can also refer to [This PDF]() for more information on how our solution is
+- Impactful in solving a real world problem 
+- Innovative use case of graph
+- Ambitious and complex graph
+- Applicable graph solution 
+
+Other additions: 
+
+ - **Data**: Refer to [README.md]() to create your own database 
+ - **Technology Stack**: Python, Machine Learning, GSQL, Tigergraph, Javascript 
+ - **Demo**: Watch [Demo]()
+
+### Installation
+
+Please give detailed instructions on installing, configuring, and running the project so judges can fully replicate and assess it. 
+
+This can include:
+1. Clone repository
+2. Install dependencies
+```
+pip install -r requirements.txt
+```
