@@ -1,4 +1,4 @@
-# Graph For All Million Dollar Challenge
+# Hyper-News [Graph For All Million Dollar Challenge]
 
 ## Problem Statement : Reduce The Noise Of News Search
 
@@ -41,7 +41,7 @@ Other additions:
 
  - **Data**: Refer to [README.md](news-corpus/README.md) to create your own database 
  - **Technology Stack**: Python, Machine Learning, GSQL, Tigergraph, Javascript 
- - **Demo**: Watch [Demo]()
+ - **Demo**: Watch [Here]()
  - **PPT**: [Google Slides](https://docs.google.com/presentation/d/1UQlvZGRYZ7BWTaf-oB7XPoVclkMM7FNros2v_wuiFtU/edit?usp=sharing)
 
 ### Installation
