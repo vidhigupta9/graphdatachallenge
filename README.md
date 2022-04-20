@@ -1,7 +1,8 @@
 # Graph For All Million Dollar Challenge
 
 ## Problem Statement : Reduce The Noise Of News Search
-### Author: Ashleigh Faith, Director, Knowledge Graph and Semantic Search at EBSCO
+
+#### Author: Ashleigh Faith, Director, Knowledge Graph and Semantic Search at EBSCO
 
 Google, while a wonderful resource for quick-fix questions, starts to repeat search results after the third page, this is especially true for news articles. A big reason for this is duplicate resources from common sister agencies like Associate Press and all the newspapers that use its articles, as well as reshares or reposts, artificially inflate the volume of an article/post and its importance. Re-posts or re-shares often are also changed slightly so Google does not see them as duplicates. This causes inflated importance of some posts (going “viral” unnecessarily) and gives a noisy Google search experience that may be hiding more relevant news articles from end-users.
 
@@ -19,7 +20,7 @@ The desired state would likely be to have a hyper-node graph that represents the
 * Documented the normalized information (the data the clustered articles/posts have in common) as metadata for the hyper-node and the similarity between each hyper node. 
 * Represented the similarity of metadata between hyper-nodes that allows for the solution to scale so that as new news articles/posts are posted, the metadata can be queried to identify if the new article/post is an existing duplicate, or a new article/post.
 
-### The desired state 
+### The Desired State 
 * The first is the model and its populated hyper-graph 
 * The second is the similarity model, likely a machine learning model (Bert). 
 * Each hyper-node has the normalized metadata of the articles it represents, as well as the similarity score for the individual articles to one another and the similarity score between each hyper-node. 
@@ -38,7 +39,7 @@ You can also refer to [This PDF](solution.pdf) for more information on how our s
 
 Other additions: 
 
- - **Data**: Refer to [README.md](news corpus/README.md) to create your own database 
+ - **Data**: Refer to [README.md](news-corpus/README.md) to create your own database 
  - **Technology Stack**: Python, Machine Learning, GSQL, Tigergraph, Javascript 
  - **Demo**: Watch [Demo]()
  - **PPT**: [Google Slides](https://docs.google.com/presentation/d/1UQlvZGRYZ7BWTaf-oB7XPoVclkMM7FNros2v_wuiFtU/edit?usp=sharing)
@@ -62,6 +63,5 @@ pip install -r requirements.txt
 
 ### Contributors
 
-**Vidhi Gupta :** gvidhi9@gmail.com
-
-**Deep Rodge :** deeprodge14@gmail.com
+* **Vidhi Gupta :** gvidhi9@gmail.com
+* **Deep Rodge :** deeprodge14@gmail.com
