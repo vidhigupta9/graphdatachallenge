@@ -1,13 +1,11 @@
 # Graph For All Million Dollar Challenge
 
-## Problem Statement
-
-### Reduce The Noise Of News Search
+## Problem Statement : Reduce The Noise Of News Search
 ### Author: Ashleigh Faith, Director, Knowledge Graph and Semantic Search at EBSCO
 
 Google, while a wonderful resource for quick-fix questions, starts to repeat search results after the third page, this is especially true for news articles. A big reason for this is duplicate resources from common sister agencies like Associate Press and all the newspapers that use its articles, as well as reshares or reposts, artificially inflate the volume of an article/post and its importance. Re-posts or re-shares often are also changed slightly so Google does not see them as duplicates. This causes inflated importance of some posts (going “viral” unnecessarily) and gives a noisy Google search experience that may be hiding more relevant news articles from end-users.
 
-## The Challenge
+### The Challenge
 How can news articles with the same content be identified and associated with each other in order to prevent inflation of information importance? Take cues from copyright detection or song recognition as you design your solution. Attempt to identify duplicate news articles that you might scrape from Google or internet search results and what sources those articles commonly come from. How can this information be used to better enable the public to make sure they're getting the most important and diverse information?
 
 ### Approach
