@@ -38,7 +38,7 @@ You can also refer to [This PDF](solution.pdf) for more information on how our s
 
 Other additions: 
 
- - **Data**: Refer to [README.md]() to create your own database 
+ - **Data**: Refer to [README.md](data/README.md) to create your own database 
  - **Technology Stack**: Python, Machine Learning, GSQL, Tigergraph, Javascript 
  - **Demo**: Watch [Demo]()
 
