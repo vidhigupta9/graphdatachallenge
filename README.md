@@ -41,8 +41,8 @@ Other additions:
 
  - **Data**: Refer to [README.md](news-corpus/README.md) to create your own database 
  - **Technology Stack**: Python, Machine Learning, GSQL, Tigergraph, Javascript 
- - **Demo**: Watch [Here]()
- - **PPT**: [Google Slides](https://docs.google.com/presentation/d/1UQlvZGRYZ7BWTaf-oB7XPoVclkMM7FNros2v_wuiFtU/edit?usp=sharing)
+ - **Demo**: Watch [Here](https://youtu.be/leLlgDcjXKM)
+ - **PPT**: [Google Slides](https://docs.google.com/presentation/d/13lDwYo54N-C5wIRGGjjBZR3HopzHFZlB_SLWcOG5dEk/edit?usp=drivesdk)
 
 ### Installation
 
